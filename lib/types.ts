@@ -53,10 +53,32 @@ export type AttemptRecord = {
   startedAt: Date;
   completedAt: Date | null;
   durationSeconds: number | null;
+  ipAddress?: string | null;
+  focusLossEvents?: {
+    leftAt: Date;
+    returnedAt: Date | null;
+  }[];
+  location?: {
+    latitude: number;
+    longitude: number;
+    accuracyMeters: number;
+    capturedAt: Date;
+  } | null;
   answers: { questionId: string; submittedAnswer: string; isCorrect: boolean }[];
 };
 
 export type AttemptDetail = AttemptSummary & {
+  ipAddress?: string | null;
+  focusLossEvents?: {
+    leftAt: string;
+    returnedAt: string | null;
+  }[];
+  location?: {
+    latitude: number;
+    longitude: number;
+    accuracyMeters: number;
+    capturedAt: string;
+  } | null;
   answers: {
     questionId: string;
     number: number;

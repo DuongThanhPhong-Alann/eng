@@ -24,11 +24,34 @@ export async function PATCH(request: Request, context: RouteContext) {
     }
 
     if (body?.event === "focus_lost") {
+      const leftAt = new Date();
       await attempts.updateOne(
         { _id: attemptId, learnerId, status: "in_progress" },
-        { $inc: { focusLossCount: 1 } },
+        {
+          $inc: { focusLossCount: 1 },
+          $push: { focusLossEvents: { leftAt, returnedAt: null } },
+        },
       );
-      return NextResponse.json({ ok: true });
+      return NextResponse.json({ ok: true, leftAt: leftAt.toISOString() });
+    }
+
+    if (body?.event === "focus_returned") {
+      const events = attempt.focusLossEvents ?? [];
+      let openEventIndex = -1;
+      for (let index = events.length - 1; index >= 0; index -= 1) {
+        if (!events[index].returnedAt) {
+          openEventIndex = index;
+          break;
+        }
+      }
+      const returnedAt = new Date();
+      if (openEventIndex >= 0) {
+        await attempts.updateOne(
+          { _id: attemptId, learnerId, status: "in_progress" },
+          { $set: { [`focusLossEvents.${openEventIndex}.returnedAt`]: returnedAt } },
+        );
+      }
+      return NextResponse.json({ ok: true, returnedAt: returnedAt.toISOString() });
     }
 
     if (body?.answer && typeof body.answer.questionId === "string" && typeof body.answer.answer === "string") {

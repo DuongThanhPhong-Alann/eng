@@ -12,7 +12,7 @@ export async function GET(request: Request) {
     const db = await getDatabase();
     const attempts = await db
       .collection<AttemptRecord>("attempts")
-      .find({ learnerId }, { projection: { answers: 0, learnerId: 0 } })
+      .find({ learnerId }, { projection: { answers: 0, learnerId: 0, focusLossEvents: 0, ipAddress: 0, location: 0 } })
       .sort({ startedAt: -1 })
       .limit(100)
       .toArray();

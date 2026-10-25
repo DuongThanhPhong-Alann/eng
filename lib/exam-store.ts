@@ -3,10 +3,10 @@ import { seedExams, getSeedExam } from "@/lib/exams";
 import { getDatabase } from "@/lib/mongodb";
 import type { Exam } from "@/lib/types";
 
-type StoredExam = Exam & { _id: string; createdAt?: Date };
+type StoredExam = Exam & { _id: string; createdAt?: Date; updatedAt?: Date };
 
 export async function seedExamCollection(db: Db) {
-  const collection = db.collection("exams");
+  const collection = db.collection<StoredExam>("exams");
   await Promise.all(
     seedExams.map((exam) =>
       collection.updateOne(
