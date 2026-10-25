@@ -1,0 +1,1960 @@
+{
+  "id": "unit-3-community-service-word-form",
+  "title": "Unit 3 · Community Service",
+  "subtitle": "Word Form · 130 câu",
+  "description": "Luyện dạng từ với đáp án và giải thích tiếng Việt từ tài liệu bạn gửi.",
+  "sourceFile": "Unit_3_Community_Service_130_Word_Form_REVISED.docx",
+  "questionCount": 130,
+  "questions": [
+    {
+      "id": "q-001",
+      "number": 1,
+      "prompt": "Our _____ is friendly and helpful.",
+      "sourceWord": "COMMUNITY",
+      "section": "COMMUNITY",
+      "answer": "community",
+      "explanation": "Sau tính từ sở hữu “our” cần danh từ số ít: community (cộng đồng).",
+      "choices": [
+        "communal",
+        "communities",
+        "communally",
+        "community"
+      ]
+    },
+    {
+      "id": "q-002",
+      "number": 2,
+      "prompt": "Many _____ work together to protect the environment.",
+      "sourceWord": "COMMUNITY",
+      "section": "COMMUNITY",
+      "answer": "communities",
+      "explanation": "Sau “many” cần danh từ số nhiều; community đổi y thành ies: communities.",
+      "choices": [
+        "communities",
+        "communal",
+        "communitarianism",
+        "community"
+      ]
+    },
+    {
+      "id": "q-003",
+      "number": 3,
+      "prompt": "This is a _____ project for local people.",
+      "sourceWord": "COMMUNITY",
+      "section": "COMMUNITY",
+      "answer": "community",
+      "explanation": "Community đứng trước danh từ project để bổ nghĩa, tạo cụm “community project”.",
+      "choices": [
+        "communities",
+        "community",
+        "communally",
+        "communitarianism"
+      ]
+    },
+    {
+      "id": "q-004",
+      "number": 4,
+      "prompt": "The _____ center is near the school.",
+      "sourceWord": "COMMUNITY",
+      "section": "COMMUNITY",
+      "answer": "community",
+      "explanation": "Community bổ nghĩa cho center; đây là cụm danh từ ghép.",
+      "choices": [
+        "communally",
+        "communities",
+        "community",
+        "communitarianism"
+      ]
+    },
+    {
+      "id": "q-005",
+      "number": 5,
+      "prompt": "Our _____ has a large park.",
+      "sourceWord": "COMMUNITY",
+      "section": "COMMUNITY",
+      "answer": "community",
+      "explanation": "Sau “our” cần danh từ làm chủ ngữ.",
+      "choices": [
+        "communally",
+        "communal",
+        "communities",
+        "community"
+      ]
+    },
+    {
+      "id": "q-006",
+      "number": 6,
+      "prompt": "The two _____ share the same library.",
+      "sourceWord": "COMMUNITY",
+      "section": "COMMUNITY",
+      "answer": "communities",
+      "explanation": "Sau “two” cần danh từ số nhiều: communities.",
+      "choices": [
+        "communities",
+        "community",
+        "communitarianism",
+        "communal"
+      ]
+    },
+    {
+      "id": "q-007",
+      "number": 7,
+      "prompt": "People enjoy living in this _____.",
+      "sourceWord": "COMMUNITY",
+      "section": "COMMUNITY",
+      "answer": "community",
+      "explanation": "Sau “this” cần danh từ số ít.",
+      "choices": [
+        "communities",
+        "community",
+        "communally",
+        "communal"
+      ]
+    },
+    {
+      "id": "q-008",
+      "number": 8,
+      "prompt": "The _____ spirit is strong here.",
+      "sourceWord": "COMMUNITY",
+      "section": "COMMUNITY",
+      "answer": "community",
+      "explanation": "Community bổ nghĩa cho spirit, chỉ tinh thần cộng đồng.",
+      "choices": [
+        "communitarianism",
+        "communally",
+        "community",
+        "communities"
+      ]
+    },
+    {
+      "id": "q-009",
+      "number": 9,
+      "prompt": "We should support our local _____.",
+      "sourceWord": "COMMUNITY",
+      "section": "COMMUNITY",
+      "answer": "community",
+      "explanation": "Sau tính từ “local” cần danh từ; community là tân ngữ của support.",
+      "choices": [
+        "communal",
+        "communally",
+        "communitarian",
+        "community"
+      ]
+    },
+    {
+      "id": "q-010",
+      "number": 10,
+      "prompt": "Community members are very _____.",
+      "sourceWord": "COMMUNITY",
+      "section": "COMMUNITY",
+      "answer": "community-minded",
+      "explanation": "Sau “are” cần tính từ; community-minded nghĩa là có tinh thần vì cộng đồng.",
+      "choices": [
+        "community-minded",
+        "communities",
+        "communally",
+        "community"
+      ]
+    },
+    {
+      "id": "q-011",
+      "number": 11,
+      "prompt": "Doing _____ helps people in need.",
+      "sourceWord": "COMMUNITY SERVICE",
+      "section": "COMMUNITY SERVICE",
+      "answer": "community service",
+      "explanation": "Cụm danh từ làm tân ngữ của doing; nghĩa là hoạt động phục vụ cộng đồng.",
+      "choices": [
+        "community servicing",
+        "community service",
+        "service community",
+        "community serviced"
+      ]
+    },
+    {
+      "id": "q-012",
+      "number": 12,
+      "prompt": "The students _____ the neighborhood every month.",
+      "sourceWord": "SERVICE",
+      "section": "COMMUNITY SERVICE",
+      "answer": "serve",
+      "explanation": "Chủ ngữ số nhiều cần động từ; serve là động từ của service.",
+      "choices": [
+        "serving",
+        "serves",
+        "serve",
+        "served"
+      ]
+    },
+    {
+      "id": "q-013",
+      "number": 13,
+      "prompt": "The volunteers are very _____ to local people.",
+      "sourceWord": "SERVICE",
+      "section": "COMMUNITY SERVICE",
+      "answer": "serviceable",
+      "explanation": "Sau “are” cần tính từ; serviceable nghĩa là hữu ích/đáp ứng được nhu cầu.",
+      "choices": [
+        "serviced",
+        "servicing",
+        "service",
+        "serviceable"
+      ]
+    },
+    {
+      "id": "q-014",
+      "number": 14,
+      "prompt": "We joined a _____ project.",
+      "sourceWord": "COMMUNITY SERVICE",
+      "section": "COMMUNITY SERVICE",
+      "answer": "community-service",
+      "explanation": "Cụm community-service đứng trước project để bổ nghĩa.",
+      "choices": [
+        "community-service",
+        "serviceable community",
+        "community serviced",
+        "community serving"
+      ]
+    },
+    {
+      "id": "q-015",
+      "number": 15,
+      "prompt": "Her _____ to the community is important.",
+      "sourceWord": "SERVE",
+      "section": "COMMUNITY SERVICE",
+      "answer": "service",
+      "explanation": "Sau tính từ sở hữu her cần danh từ; service là sự phục vụ.",
+      "choices": [
+        "services",
+        "service",
+        "serving",
+        "serviceable"
+      ]
+    },
+    {
+      "id": "q-016",
+      "number": 16,
+      "prompt": "They provide food and other _____.",
+      "sourceWord": "SERVICE",
+      "section": "COMMUNITY SERVICE",
+      "answer": "services",
+      "explanation": "Sau “other” trong nghĩa nhiều dịch vụ dùng danh từ số nhiều services.",
+      "choices": [
+        "serviceable",
+        "serve",
+        "services",
+        "service"
+      ]
+    },
+    {
+      "id": "q-017",
+      "number": 17,
+      "prompt": "He works as a community _____.",
+      "sourceWord": "SERVE",
+      "section": "COMMUNITY SERVICE",
+      "answer": "servant",
+      "explanation": "Sau “a community” cần danh từ chỉ người; servant là người phục vụ (lưu ý nghĩa không giống volunteer).",
+      "choices": [
+        "serve",
+        "serving",
+        "service",
+        "servant"
+      ]
+    },
+    {
+      "id": "q-018",
+      "number": 18,
+      "prompt": "The club wants to _____ the elderly.",
+      "sourceWord": "SERVICE",
+      "section": "COMMUNITY SERVICE",
+      "answer": "serve",
+      "explanation": "Sau “to” cần động từ nguyên mẫu serve.",
+      "choices": [
+        "serve",
+        "served",
+        "serving",
+        "serves"
+      ]
+    },
+    {
+      "id": "q-019",
+      "number": 19,
+      "prompt": "Community service is a useful _____ for teenagers.",
+      "sourceWord": "ACTIVE",
+      "section": "COMMUNITY SERVICE",
+      "answer": "activity",
+      "explanation": "Sau “a useful” cần danh từ số ít; activity là hoạt động.",
+      "choices": [
+        "active",
+        "activity",
+        "activate",
+        "activities"
+      ]
+    },
+    {
+      "id": "q-020",
+      "number": 20,
+      "prompt": "The school encourages _____ involvement.",
+      "sourceWord": "COMMUNITY",
+      "section": "COMMUNITY SERVICE",
+      "answer": "community",
+      "explanation": "Community bổ nghĩa cho involvement, tạo cụm “community involvement”.",
+      "choices": [
+        "communally",
+        "communities",
+        "community",
+        "communal"
+      ]
+    },
+    {
+      "id": "q-021",
+      "number": 21,
+      "prompt": "The school offers many _____.",
+      "sourceWord": "ACTIVITY",
+      "section": "COMMUNITY ACTIVITIES",
+      "answer": "activities",
+      "explanation": "Sau “many” cần danh từ số nhiều; activity đổi y thành ies.",
+      "choices": [
+        "activate",
+        "active",
+        "activity",
+        "activities"
+      ]
+    },
+    {
+      "id": "q-022",
+      "number": 22,
+      "prompt": "Students are very _____ in the project.",
+      "sourceWord": "ACTIVITY",
+      "section": "COMMUNITY ACTIVITIES",
+      "answer": "active",
+      "explanation": "Sau “are very” cần tính từ; active nghĩa là năng động/tích cực.",
+      "choices": [
+        "active",
+        "activate",
+        "actively",
+        "activity"
+      ]
+    },
+    {
+      "id": "q-023",
+      "number": 23,
+      "prompt": "The children participate _____ in the event.",
+      "sourceWord": "ACTIVE",
+      "section": "COMMUNITY ACTIVITIES",
+      "answer": "actively",
+      "explanation": "Bổ nghĩa cho động từ participate cần trạng từ actively.",
+      "choices": [
+        "activity",
+        "actively",
+        "active",
+        "activities"
+      ]
+    },
+    {
+      "id": "q-024",
+      "number": 24,
+      "prompt": "Walking is a healthy _____.",
+      "sourceWord": "ACTIVITY",
+      "section": "COMMUNITY ACTIVITIES",
+      "answer": "activity",
+      "explanation": "Sau “a healthy” cần danh từ số ít activity.",
+      "choices": [
+        "active",
+        "activities",
+        "activity",
+        "activate"
+      ]
+    },
+    {
+      "id": "q-025",
+      "number": 25,
+      "prompt": "We need to _____ the school club.",
+      "sourceWord": "ACTIVE",
+      "section": "COMMUNITY ACTIVITIES",
+      "answer": "activate",
+      "explanation": "Sau “to” cần động từ nguyên mẫu; activate nghĩa là kích hoạt/khởi động.",
+      "choices": [
+        "active",
+        "actively",
+        "activity",
+        "activate"
+      ]
+    },
+    {
+      "id": "q-026",
+      "number": 26,
+      "prompt": "The _____ of the students makes the event successful.",
+      "sourceWord": "ACTIVE",
+      "section": "COMMUNITY ACTIVITIES",
+      "answer": "activity",
+      "explanation": "Sau “the” và trước “of” cần danh từ; activity ở đây chỉ sự hoạt động.",
+      "choices": [
+        "activity",
+        "activate",
+        "active",
+        "activities"
+      ]
+    },
+    {
+      "id": "q-027",
+      "number": 27,
+      "prompt": "There are several outdoor _____ today.",
+      "sourceWord": "ACTIVITY",
+      "section": "COMMUNITY ACTIVITIES",
+      "answer": "activities",
+      "explanation": "Sau “several” dùng danh từ số nhiều.",
+      "choices": [
+        "activity",
+        "activities",
+        "active",
+        "activate"
+      ]
+    },
+    {
+      "id": "q-028",
+      "number": 28,
+      "prompt": "She is an _____ member of the group.",
+      "sourceWord": "ACTIVITY",
+      "section": "COMMUNITY ACTIVITIES",
+      "answer": "active",
+      "explanation": "Trước danh từ member cần tính từ active.",
+      "choices": [
+        "activity",
+        "activate",
+        "active",
+        "actively"
+      ]
+    },
+    {
+      "id": "q-029",
+      "number": 29,
+      "prompt": "The group works _____ to help others.",
+      "sourceWord": "ACTIVE",
+      "section": "COMMUNITY ACTIVITIES",
+      "answer": "actively",
+      "explanation": "Bổ nghĩa cho works cần trạng từ actively.",
+      "choices": [
+        "active",
+        "activity",
+        "activities",
+        "actively"
+      ]
+    },
+    {
+      "id": "q-030",
+      "number": 30,
+      "prompt": "This _____ is popular with teenagers.",
+      "sourceWord": "ACTIVITY",
+      "section": "COMMUNITY ACTIVITIES",
+      "answer": "activity",
+      "explanation": "Sau “this” cần danh từ số ít.",
+      "choices": [
+        "activity",
+        "activities",
+        "active",
+        "activate"
+      ]
+    },
+    {
+      "id": "q-031",
+      "number": 31,
+      "prompt": "Chess is a popular _____.",
+      "sourceWord": "BOARD GAME",
+      "section": "BOARD GAME",
+      "answer": "board game",
+      "explanation": "Sau “a popular” cần danh từ số ít.",
+      "choices": [
+        "gamer",
+        "board game",
+        "gaming",
+        "board games"
+      ]
+    },
+    {
+      "id": "q-032",
+      "number": 32,
+      "prompt": "We enjoy _____ on rainy days.",
+      "sourceWord": "GAME",
+      "section": "BOARD GAME",
+      "answer": "gaming",
+      "explanation": "Sau enjoy dùng V-ing; gaming là hoạt động chơi trò chơi.",
+      "choices": [
+        "games",
+        "gameful",
+        "gaming",
+        "gamer"
+      ]
+    },
+    {
+      "id": "q-033",
+      "number": 33,
+      "prompt": "The children are _____ in the living room.",
+      "sourceWord": "GAME",
+      "section": "BOARD GAME",
+      "answer": "gaming",
+      "explanation": "Sau are dùng V-ing để diễn tả hoạt động đang diễn ra; gaming là chơi game.",
+      "choices": [
+        "games",
+        "gameful",
+        "gamer",
+        "gaming"
+      ]
+    },
+    {
+      "id": "q-034",
+      "number": 34,
+      "prompt": "This game is very _____.",
+      "sourceWord": "FUN",
+      "section": "BOARD GAME",
+      "answer": "fun",
+      "explanation": "Sau “very” cần tính từ; fun mô tả trò chơi thú vị.",
+      "choices": [
+        "fun",
+        "game",
+        "gaming",
+        "gamer"
+      ]
+    },
+    {
+      "id": "q-035",
+      "number": 35,
+      "prompt": "He is a good _____.",
+      "sourceWord": "GAME",
+      "section": "BOARD GAME",
+      "answer": "gamer",
+      "explanation": "Sau “a good” cần danh từ chỉ người; gamer là người chơi game.",
+      "choices": [
+        "games",
+        "gamer",
+        "gaming",
+        "game"
+      ]
+    },
+    {
+      "id": "q-036",
+      "number": 36,
+      "prompt": "We bought three _____.",
+      "sourceWord": "BOARD GAME",
+      "section": "BOARD GAME",
+      "answer": "board games",
+      "explanation": "Sau “three” cần danh từ số nhiều; games thêm s.",
+      "choices": [
+        "board game",
+        "gaming",
+        "board games",
+        "gamer"
+      ]
+    },
+    {
+      "id": "q-037",
+      "number": 37,
+      "prompt": "The _____ pieces are colorful.",
+      "sourceWord": "GAME",
+      "section": "BOARD GAME",
+      "answer": "game",
+      "explanation": "Game bổ nghĩa cho pieces trong cụm game pieces.",
+      "choices": [
+        "gamer",
+        "game-based",
+        "games",
+        "game"
+      ]
+    },
+    {
+      "id": "q-038",
+      "number": 38,
+      "prompt": "Playing board games is _____.",
+      "sourceWord": "ENJOY",
+      "section": "BOARD GAME",
+      "answer": "enjoyable",
+      "explanation": "Sau “is” cần tính từ; enjoyable nghĩa là thú vị.",
+      "choices": [
+        "enjoyable",
+        "games",
+        "gamer",
+        "game-based"
+      ]
+    },
+    {
+      "id": "q-039",
+      "number": 39,
+      "prompt": "They have a large _____ collection.",
+      "sourceWord": "GAME",
+      "section": "BOARD GAME",
+      "answer": "game",
+      "explanation": "Game đứng trước collection để bổ nghĩa.",
+      "choices": [
+        "gamer",
+        "game",
+        "games",
+        "game-based"
+      ]
+    },
+    {
+      "id": "q-040",
+      "number": 40,
+      "prompt": "This is a _____ activity for families.",
+      "sourceWord": "GAME",
+      "section": "BOARD GAME",
+      "answer": "game-based",
+      "explanation": "Trước activity cần tính từ; game-based nghĩa là dựa trên trò chơi.",
+      "choices": [
+        "gamer",
+        "gaming",
+        "game-based",
+        "games"
+      ]
+    },
+    {
+      "id": "q-041",
+      "number": 41,
+      "prompt": "We should _____ more flowers.",
+      "sourceWord": "PLANT",
+      "section": "PLANT",
+      "answer": "plant",
+      "explanation": "Sau should dùng động từ nguyên mẫu.",
+      "choices": [
+        "planter",
+        "plant-based",
+        "plants",
+        "plant"
+      ]
+    },
+    {
+      "id": "q-042",
+      "number": 42,
+      "prompt": "The _____ in this garden are beautiful.",
+      "sourceWord": "PLANT",
+      "section": "PLANT",
+      "answer": "plants",
+      "explanation": "Sau “the” và động từ are cần danh từ số nhiều plants.",
+      "choices": [
+        "plants",
+        "plant",
+        "planting",
+        "planter"
+      ]
+    },
+    {
+      "id": "q-043",
+      "number": 43,
+      "prompt": "_____ trees helps the environment.",
+      "sourceWord": "PLANT",
+      "section": "PLANT",
+      "answer": "Planting",
+      "explanation": "Động từ làm chủ ngữ cần dạng V-ing: planting.",
+      "choices": [
+        "plants",
+        "Planting",
+        "planted",
+        "plant"
+      ]
+    },
+    {
+      "id": "q-044",
+      "number": 44,
+      "prompt": "The garden has many different _____.",
+      "sourceWord": "PLANT",
+      "section": "PLANT",
+      "answer": "plants",
+      "explanation": "Sau “many different” cần danh từ số nhiều.",
+      "choices": [
+        "planter",
+        "plant",
+        "plants",
+        "planting"
+      ]
+    },
+    {
+      "id": "q-045",
+      "number": 45,
+      "prompt": "This is a _____ area.",
+      "sourceWord": "PLANT",
+      "section": "PLANT",
+      "answer": "plant",
+      "explanation": "Plant bổ nghĩa cho area, tạo cụm plant area.",
+      "choices": [
+        "planter",
+        "plant-based",
+        "plants",
+        "plant"
+      ]
+    },
+    {
+      "id": "q-046",
+      "number": 46,
+      "prompt": "The seeds are ready for _____.",
+      "sourceWord": "PLANT",
+      "section": "PLANT",
+      "answer": "planting",
+      "explanation": "Sau giới từ for dùng danh từ hoặc V-ing; planting là hoạt động trồng.",
+      "choices": [
+        "planting",
+        "planted",
+        "plants",
+        "plant"
+      ]
+    },
+    {
+      "id": "q-047",
+      "number": 47,
+      "prompt": "Farmers grow _____ vegetables.",
+      "sourceWord": "PLANT",
+      "section": "PLANT",
+      "answer": "planted",
+      "explanation": "Trước vegetables cần tính từ/phân từ; planted vegetables là rau được trồng.",
+      "choices": [
+        "planting",
+        "planted",
+        "plant",
+        "plants"
+      ]
+    },
+    {
+      "id": "q-048",
+      "number": 48,
+      "prompt": "The _____ of trees is important.",
+      "sourceWord": "PLANT",
+      "section": "PLANT",
+      "answer": "planting",
+      "explanation": "Sau “the” và trước “of” dùng danh từ hóa V-ing: planting.",
+      "choices": [
+        "planted",
+        "plant",
+        "planting",
+        "plants"
+      ]
+    },
+    {
+      "id": "q-049",
+      "number": 49,
+      "prompt": "This flower is easy to _____.",
+      "sourceWord": "PLANT",
+      "section": "PLANT",
+      "answer": "plant",
+      "explanation": "Sau “to” dùng động từ nguyên mẫu.",
+      "choices": [
+        "plants",
+        "plant-based",
+        "planter",
+        "plant"
+      ]
+    },
+    {
+      "id": "q-050",
+      "number": 50,
+      "prompt": "A _____ is a living thing.",
+      "sourceWord": "PLANT",
+      "section": "PLANT",
+      "answer": "plant",
+      "explanation": "Sau “a” cần danh từ số ít plant.",
+      "choices": [
+        "plant",
+        "plants",
+        "planter",
+        "plant-based"
+      ]
+    },
+    {
+      "id": "q-051",
+      "number": 51,
+      "prompt": "We should _____ near the school.",
+      "sourceWord": "PLANT TREE",
+      "section": "PLANT TREES",
+      "answer": "plant trees",
+      "explanation": "Sau should dùng động từ nguyên mẫu; trees là danh từ số nhiều.",
+      "choices": [
+        "planted trees",
+        "plant trees",
+        "plant tree",
+        "planting trees"
+      ]
+    },
+    {
+      "id": "q-052",
+      "number": 52,
+      "prompt": "_____ trees is good for the planet.",
+      "sourceWord": "PLANT TREE",
+      "section": "PLANT TREES",
+      "answer": "Planting",
+      "explanation": "V-ing làm chủ ngữ; câu nói về hoạt động trồng cây.",
+      "choices": [
+        "planted",
+        "plant",
+        "Planting",
+        "plants"
+      ]
+    },
+    {
+      "id": "q-053",
+      "number": 53,
+      "prompt": "The _____ of trees can reduce pollution.",
+      "sourceWord": "PLANT",
+      "section": "PLANT TREES",
+      "answer": "planting",
+      "explanation": "Sau “the” cần danh từ hóa; planting nghĩa là việc trồng.",
+      "choices": [
+        "planted",
+        "plant",
+        "plants",
+        "planting"
+      ]
+    },
+    {
+      "id": "q-054",
+      "number": 54,
+      "prompt": "Many _____ were planted last year.",
+      "sourceWord": "TREE",
+      "section": "PLANT TREES",
+      "answer": "trees",
+      "explanation": "Sau many cần danh từ số nhiều trees.",
+      "choices": [
+        "trees",
+        "treed",
+        "tree's",
+        "tree"
+      ]
+    },
+    {
+      "id": "q-055",
+      "number": 55,
+      "prompt": "The students are _____ trees today.",
+      "sourceWord": "PLANT",
+      "section": "PLANT TREES",
+      "answer": "planting",
+      "explanation": "Sau are dùng V-ing trong cấu trúc đang diễn ra.",
+      "choices": [
+        "plant",
+        "planting",
+        "plants",
+        "planted"
+      ]
+    },
+    {
+      "id": "q-056",
+      "number": 56,
+      "prompt": "We need a tree-_____ campaign.",
+      "sourceWord": "PLANT",
+      "section": "PLANT TREES",
+      "answer": "planting",
+      "explanation": "Trước campaign cần từ bổ nghĩa; tree-planting là chiến dịch trồng cây.",
+      "choices": [
+        "planted",
+        "plants",
+        "planting",
+        "plant"
+      ]
+    },
+    {
+      "id": "q-057",
+      "number": 57,
+      "prompt": "The garden has several young _____.",
+      "sourceWord": "TREE",
+      "section": "PLANT TREES",
+      "answer": "trees",
+      "explanation": "Sau several cần danh từ số nhiều.",
+      "choices": [
+        "tree",
+        "tree's",
+        "treed",
+        "trees"
+      ]
+    },
+    {
+      "id": "q-058",
+      "number": 58,
+      "prompt": "It is important to _____ trees carefully.",
+      "sourceWord": "PLANT TREE",
+      "section": "PLANT TREES",
+      "answer": "plant trees",
+      "explanation": "Sau to dùng động từ nguyên mẫu; trees ở số nhiều.",
+      "choices": [
+        "plant trees",
+        "planted trees",
+        "planting trees",
+        "plant tree"
+      ]
+    },
+    {
+      "id": "q-059",
+      "number": 59,
+      "prompt": "Tree _____ is one of our activities.",
+      "sourceWord": "PLANT",
+      "section": "PLANT TREES",
+      "answer": "planting",
+      "explanation": "Trong cụm tree planting, planting là danh từ chỉ hoạt động.",
+      "choices": [
+        "plant",
+        "planting",
+        "plants",
+        "planted"
+      ]
+    },
+    {
+      "id": "q-060",
+      "number": 60,
+      "prompt": "The newly _____ trees need water.",
+      "sourceWord": "PLANT",
+      "section": "PLANT TREES",
+      "answer": "planted",
+      "explanation": "Sau newly cần phân từ planted để diễn tả cây mới được trồng.",
+      "choices": [
+        "planting",
+        "plant",
+        "planted",
+        "plants"
+      ]
+    },
+    {
+      "id": "q-061",
+      "number": 61,
+      "prompt": "Please _____ the flowers.",
+      "sourceWord": "WATER",
+      "section": "WATER",
+      "answer": "water",
+      "explanation": "Sau please dùng động từ nguyên mẫu.",
+      "choices": [
+        "waterless",
+        "watering",
+        "watered",
+        "water"
+      ]
+    },
+    {
+      "id": "q-062",
+      "number": 62,
+      "prompt": "The _____ is clean here.",
+      "sourceWord": "WATER",
+      "section": "WATER",
+      "answer": "water",
+      "explanation": "Sau the cần danh từ water (nước).",
+      "choices": [
+        "water",
+        "watering",
+        "waterless",
+        "watered"
+      ]
+    },
+    {
+      "id": "q-063",
+      "number": 63,
+      "prompt": "Plants need regular _____.",
+      "sourceWord": "WATER",
+      "section": "WATER",
+      "answer": "watering",
+      "explanation": "Sau regular cần danh từ; watering là việc tưới nước.",
+      "choices": [
+        "waterless",
+        "watering",
+        "watered",
+        "watery"
+      ]
+    },
+    {
+      "id": "q-064",
+      "number": 64,
+      "prompt": "The soil is too _____ for these plants.",
+      "sourceWord": "WATER",
+      "section": "WATER",
+      "answer": "waterless",
+      "explanation": "Sau too cần tính từ; waterless nghĩa là thiếu nước.",
+      "choices": [
+        "water",
+        "watered",
+        "waterless",
+        "watering"
+      ]
+    },
+    {
+      "id": "q-065",
+      "number": 65,
+      "prompt": "We _____ the garden every morning.",
+      "sourceWord": "WATER",
+      "section": "WATER",
+      "answer": "water",
+      "explanation": "Chủ ngữ we đi với động từ nguyên mẫu water.",
+      "choices": [
+        "waterless",
+        "watering",
+        "watered",
+        "water"
+      ]
+    },
+    {
+      "id": "q-066",
+      "number": 66,
+      "prompt": "This area has a _____ supply.",
+      "sourceWord": "WATER",
+      "section": "WATER",
+      "answer": "water",
+      "explanation": "Water bổ nghĩa cho supply, tạo cụm nguồn cung nước.",
+      "choices": [
+        "water",
+        "waterless",
+        "watering",
+        "watered"
+      ]
+    },
+    {
+      "id": "q-067",
+      "number": 67,
+      "prompt": "The _____ of plants is necessary.",
+      "sourceWord": "WATER",
+      "section": "WATER",
+      "answer": "watering",
+      "explanation": "Sau the dùng danh từ hóa V-ing watering.",
+      "choices": [
+        "watery",
+        "watering",
+        "waterless",
+        "watered"
+      ]
+    },
+    {
+      "id": "q-068",
+      "number": 68,
+      "prompt": "The ground is _____ after the rain.",
+      "sourceWord": "WATER",
+      "section": "WATER",
+      "answer": "watery",
+      "explanation": "Sau is cần tính từ; watery nghĩa là nhiều nước/ẩm nhão.",
+      "choices": [
+        "watering",
+        "water",
+        "watery",
+        "waterless"
+      ]
+    },
+    {
+      "id": "q-069",
+      "number": 69,
+      "prompt": "You can use a _____ can.",
+      "sourceWord": "WATER",
+      "section": "WATER",
+      "answer": "watering",
+      "explanation": "Watering bổ nghĩa cho can; watering can là bình tưới.",
+      "choices": [
+        "watery",
+        "waterless",
+        "watered",
+        "watering"
+      ]
+    },
+    {
+      "id": "q-070",
+      "number": 70,
+      "prompt": "Remember to _____ the seedlings.",
+      "sourceWord": "WATER",
+      "section": "WATER",
+      "answer": "water",
+      "explanation": "Sau to dùng động từ nguyên mẫu.",
+      "choices": [
+        "water",
+        "watered",
+        "waterless",
+        "watering"
+      ]
+    },
+    {
+      "id": "q-071",
+      "number": 71,
+      "prompt": "We should _____ every morning.",
+      "sourceWord": "WATER VEGETABLE",
+      "section": "WATER VEGETABLES",
+      "answer": "water vegetables",
+      "explanation": "Sau should dùng động từ nguyên mẫu; vegetables là danh từ số nhiều.",
+      "choices": [
+        "water vegetable",
+        "water vegetables",
+        "watered vegetables",
+        "watering vegetables"
+      ]
+    },
+    {
+      "id": "q-072",
+      "number": 72,
+      "prompt": "The _____ need enough water.",
+      "sourceWord": "VEGETABLE",
+      "section": "WATER VEGETABLES",
+      "answer": "vegetables",
+      "explanation": "Sau the và động từ need cần danh từ số nhiều.",
+      "choices": [
+        "vegetable",
+        "vegetatively",
+        "vegetables",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "q-073",
+      "number": 73,
+      "prompt": "This is a _____ garden.",
+      "sourceWord": "VEGETABLE",
+      "section": "WATER VEGETABLES",
+      "answer": "vegetable",
+      "explanation": "Vegetable bổ nghĩa cho garden.",
+      "choices": [
+        "vegetarian",
+        "vegetables",
+        "vegetatively",
+        "vegetable"
+      ]
+    },
+    {
+      "id": "q-074",
+      "number": 74,
+      "prompt": "Eating _____ is good for health.",
+      "sourceWord": "VEGETABLE",
+      "section": "WATER VEGETABLES",
+      "answer": "vegetables",
+      "explanation": "Sau eating có thể dùng danh từ làm tân ngữ; vegetables là rau củ nói chung.",
+      "choices": [
+        "vegetables",
+        "vegetable",
+        "vegetarian",
+        "vegetatively"
+      ]
+    },
+    {
+      "id": "q-075",
+      "number": 75,
+      "prompt": "The _____ of vegetables is important.",
+      "sourceWord": "WATER",
+      "section": "WATER VEGETABLES",
+      "answer": "watering",
+      "explanation": "Sau the cần danh từ hóa V-ing watering.",
+      "choices": [
+        "watered",
+        "watering",
+        "watery",
+        "waterless"
+      ]
+    },
+    {
+      "id": "q-076",
+      "number": 76,
+      "prompt": "These vegetables are _____.",
+      "sourceWord": "HEALTH",
+      "section": "WATER VEGETABLES",
+      "answer": "healthy",
+      "explanation": "Sau are cần tính từ healthy.",
+      "choices": [
+        "healthiness",
+        "health",
+        "healthy",
+        "healthily"
+      ]
+    },
+    {
+      "id": "q-077",
+      "number": 77,
+      "prompt": "We need to grow more _____.",
+      "sourceWord": "VEGETABLE",
+      "section": "WATER VEGETABLES",
+      "answer": "vegetables",
+      "explanation": "Sau more cần danh từ số nhiều vegetables.",
+      "choices": [
+        "vegetatively",
+        "vegetarian",
+        "vegetable",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "q-078",
+      "number": 78,
+      "prompt": "The farmer is _____ the vegetables.",
+      "sourceWord": "WATER",
+      "section": "WATER VEGETABLES",
+      "answer": "watering",
+      "explanation": "Sau is dùng V-ing để diễn tả hoạt động đang diễn ra.",
+      "choices": [
+        "watering",
+        "watered",
+        "watery",
+        "waterless"
+      ]
+    },
+    {
+      "id": "q-079",
+      "number": 79,
+      "prompt": "A _____ diet includes vegetables.",
+      "sourceWord": "HEALTH",
+      "section": "WATER VEGETABLES",
+      "answer": "healthy",
+      "explanation": "Trước danh từ diet cần tính từ healthy.",
+      "choices": [
+        "health",
+        "healthy",
+        "healthily",
+        "healthiness"
+      ]
+    },
+    {
+      "id": "q-080",
+      "number": 80,
+      "prompt": "The vegetables need _____.",
+      "sourceWord": "WATER",
+      "section": "WATER VEGETABLES",
+      "answer": "watering",
+      "explanation": "Sau need có thể dùng V-ing chỉ việc cần được thực hiện; watering là việc tưới.",
+      "choices": [
+        "watery",
+        "watered",
+        "watering",
+        "waterless"
+      ]
+    },
+    {
+      "id": "q-081",
+      "number": 81,
+      "prompt": "We want to _____ books.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donate",
+      "explanation": "Sau to dùng động từ nguyên mẫu.",
+      "choices": [
+        "donates",
+        "donating",
+        "donated",
+        "donate"
+      ]
+    },
+    {
+      "id": "q-082",
+      "number": 82,
+      "prompt": "The school received many _____.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donations",
+      "explanation": "Sau many cần danh từ số nhiều donations.",
+      "choices": [
+        "donations",
+        "donation",
+        "donor",
+        "donating"
+      ]
+    },
+    {
+      "id": "q-083",
+      "number": 83,
+      "prompt": "A generous _____ gave clothes to the shelter.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donor",
+      "explanation": "Sau a generous cần danh từ chỉ người; donor là người quyên góp.",
+      "choices": [
+        "donated",
+        "donor",
+        "donate",
+        "donation"
+      ]
+    },
+    {
+      "id": "q-084",
+      "number": 84,
+      "prompt": "They are _____ food to families.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donating",
+      "explanation": "Sau are dùng V-ing trong cấu trúc đang diễn ra.",
+      "choices": [
+        "donated",
+        "donate",
+        "donating",
+        "donation"
+      ]
+    },
+    {
+      "id": "q-085",
+      "number": 85,
+      "prompt": "Your _____ can help many people.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donation",
+      "explanation": "Sau your cần danh từ donation.",
+      "choices": [
+        "donor",
+        "donating",
+        "donate",
+        "donation"
+      ]
+    },
+    {
+      "id": "q-086",
+      "number": 86,
+      "prompt": "The books were _____ by local people.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donated",
+      "explanation": "Sau were dùng phân từ quá khứ trong câu bị động.",
+      "choices": [
+        "donated",
+        "donating",
+        "donate",
+        "donation"
+      ]
+    },
+    {
+      "id": "q-087",
+      "number": 87,
+      "prompt": "Please make a _____ to the charity.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donation",
+      "explanation": "Sau a cần danh từ số ít donation.",
+      "choices": [
+        "donate",
+        "donation",
+        "donor",
+        "donating"
+      ]
+    },
+    {
+      "id": "q-088",
+      "number": 88,
+      "prompt": "Many _____ joined the campaign.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donors",
+      "explanation": "Sau many cần danh từ số nhiều donors.",
+      "choices": [
+        "donor",
+        "donating",
+        "donors",
+        "donated"
+      ]
+    },
+    {
+      "id": "q-089",
+      "number": 89,
+      "prompt": "It is kind to _____ old toys.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donate",
+      "explanation": "Sau to dùng động từ nguyên mẫu.",
+      "choices": [
+        "donated",
+        "donates",
+        "donating",
+        "donate"
+      ]
+    },
+    {
+      "id": "q-090",
+      "number": 90,
+      "prompt": "The _____ box is near the door.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donation",
+      "explanation": "Donation bổ nghĩa cho box; donation box là hộp quyên góp.",
+      "choices": [
+        "donation",
+        "donating",
+        "donor",
+        "donate"
+      ]
+    },
+    {
+      "id": "q-091",
+      "number": 91,
+      "prompt": "We can _____ to the shelter.",
+      "sourceWord": "DONATE OLD CLOTHES",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "donate old clothes",
+      "explanation": "Sau can dùng động từ nguyên mẫu; old clothes là cụm danh từ.",
+      "choices": [
+        "donated old clothes",
+        "donate old clothes",
+        "donating old clothes",
+        "donation old clothes"
+      ]
+    },
+    {
+      "id": "q-092",
+      "number": 92,
+      "prompt": "The _____ were collected yesterday.",
+      "sourceWord": "CLOTHES",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "clothes",
+      "explanation": "Clothes là danh từ số nhiều, chỉ quần áo; đi với were.",
+      "choices": [
+        "clothesline",
+        "clothed",
+        "clothes",
+        "clothing"
+      ]
+    },
+    {
+      "id": "q-093",
+      "number": 93,
+      "prompt": "This _____ is made of cotton.",
+      "sourceWord": "CLOTH",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "cloth",
+      "explanation": "Sau this cần danh từ số ít cloth (vải).",
+      "choices": [
+        "clothed",
+        "clothes",
+        "cloths",
+        "cloth"
+      ]
+    },
+    {
+      "id": "q-094",
+      "number": 94,
+      "prompt": "The charity received a large _____.",
+      "sourceWord": "DONATE",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "donation",
+      "explanation": "Sau a large cần danh từ số ít donation.",
+      "choices": [
+        "donation",
+        "donate",
+        "donating",
+        "donor"
+      ]
+    },
+    {
+      "id": "q-095",
+      "number": 95,
+      "prompt": "We are _____ clothes for children.",
+      "sourceWord": "DONATE",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "donating",
+      "explanation": "Sau are dùng V-ing để diễn tả đang quyên góp.",
+      "choices": [
+        "donate",
+        "donating",
+        "donation",
+        "donated"
+      ]
+    },
+    {
+      "id": "q-096",
+      "number": 96,
+      "prompt": "The _____ clothes are in good condition.",
+      "sourceWord": "DONATE",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "donated",
+      "explanation": "Trước clothes cần phân từ donated, nghĩa là quần áo được quyên góp.",
+      "choices": [
+        "donating",
+        "donate",
+        "donated",
+        "donation"
+      ]
+    },
+    {
+      "id": "q-097",
+      "number": 97,
+      "prompt": "A _____ helps collect clothes.",
+      "sourceWord": "DONATE",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "donor",
+      "explanation": "Sau a cần danh từ chỉ người; donor là người quyên góp.",
+      "choices": [
+        "donated",
+        "donation",
+        "donate",
+        "donor"
+      ]
+    },
+    {
+      "id": "q-098",
+      "number": 98,
+      "prompt": "Old clothes can be _____ to others.",
+      "sourceWord": "DONATE",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "donated",
+      "explanation": "Sau can be dùng phân từ quá khứ trong câu bị động.",
+      "choices": [
+        "donated",
+        "donating",
+        "donate",
+        "donation"
+      ]
+    },
+    {
+      "id": "q-099",
+      "number": 99,
+      "prompt": "We need clean _____ for the donation box.",
+      "sourceWord": "CLOTH",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "clothes",
+      "explanation": "Sau clean cần danh từ clothes, nghĩa là quần áo.",
+      "choices": [
+        "clothesline",
+        "clothes",
+        "clothed",
+        "clothe"
+      ]
+    },
+    {
+      "id": "q-100",
+      "number": 100,
+      "prompt": "The _____ of old clothes is helpful.",
+      "sourceWord": "DONATE",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "donation",
+      "explanation": "Sau the cần danh từ donation; nghĩa là việc quyên góp.",
+      "choices": [
+        "donated",
+        "donate",
+        "donation",
+        "donator"
+      ]
+    },
+    {
+      "id": "q-101",
+      "number": 101,
+      "prompt": "My mother is a _____.",
+      "sourceWord": "TEACH",
+      "section": "TEACH",
+      "answer": "teacher",
+      "explanation": "Sau a cần danh từ chỉ người; teacher là giáo viên.",
+      "choices": [
+        "teaching",
+        "teach",
+        "teaches",
+        "teacher"
+      ]
+    },
+    {
+      "id": "q-102",
+      "number": 102,
+      "prompt": "They _____ children English.",
+      "sourceWord": "TEACH",
+      "section": "TEACH",
+      "answer": "teach",
+      "explanation": "Chủ ngữ they đi với động từ nguyên mẫu teach.",
+      "choices": [
+        "teach",
+        "teaches",
+        "taught",
+        "teaching"
+      ]
+    },
+    {
+      "id": "q-103",
+      "number": 103,
+      "prompt": "_____ children is rewarding.",
+      "sourceWord": "TEACH",
+      "section": "TEACH",
+      "answer": "Teaching",
+      "explanation": "V-ing làm chủ ngữ; teaching là việc dạy.",
+      "choices": [
+        "taught",
+        "Teaching",
+        "teacher",
+        "teach"
+      ]
+    },
+    {
+      "id": "q-104",
+      "number": 104,
+      "prompt": "This lesson is easy to _____.",
+      "sourceWord": "TEACH",
+      "section": "TEACH",
+      "answer": "teach",
+      "explanation": "Sau to dùng động từ nguyên mẫu.",
+      "choices": [
+        "taught",
+        "teaches",
+        "teach",
+        "teaching"
+      ]
+    },
+    {
+      "id": "q-105",
+      "number": 105,
+      "prompt": "The students like their _____.",
+      "sourceWord": "TEACH",
+      "section": "TEACH",
+      "answer": "teacher",
+      "explanation": "Sau their cần danh từ số ít teacher.",
+      "choices": [
+        "teach",
+        "teachery",
+        "teaches",
+        "teacher"
+      ]
+    },
+    {
+      "id": "q-106",
+      "number": 106,
+      "prompt": "She is _____ us how to recycle.",
+      "sourceWord": "TEACH",
+      "section": "TEACH",
+      "answer": "teaching",
+      "explanation": "Sau is dùng V-ing trong cấu trúc đang diễn ra.",
+      "choices": [
+        "teaching",
+        "taught",
+        "teach",
+        "teacher"
+      ]
+    },
+    {
+      "id": "q-107",
+      "number": 107,
+      "prompt": "He has a _____ style.",
+      "sourceWord": "TEACH",
+      "section": "TEACH",
+      "answer": "teaching",
+      "explanation": "Teaching bổ nghĩa cho style, nghĩa là phong cách giảng dạy.",
+      "choices": [
+        "taught",
+        "teaching",
+        "teachable",
+        "teach"
+      ]
+    },
+    {
+      "id": "q-108",
+      "number": 108,
+      "prompt": "The children were _____ by a volunteer.",
+      "sourceWord": "TEACH",
+      "section": "TEACH",
+      "answer": "taught",
+      "explanation": "Sau were dùng phân từ quá khứ taught trong câu bị động.",
+      "choices": [
+        "teaching",
+        "teachable",
+        "taught",
+        "teach"
+      ]
+    },
+    {
+      "id": "q-109",
+      "number": 109,
+      "prompt": "This method is _____ for beginners.",
+      "sourceWord": "TEACH",
+      "section": "TEACH",
+      "answer": "teachable",
+      "explanation": "Sau is cần tính từ; teachable nghĩa là có thể dạy/ dễ tiếp thu.",
+      "choices": [
+        "teaching",
+        "taught",
+        "teach",
+        "teachable"
+      ]
+    },
+    {
+      "id": "q-110",
+      "number": 110,
+      "prompt": "Good _____ makes learning easier.",
+      "sourceWord": "TEACH",
+      "section": "TEACH",
+      "answer": "teaching",
+      "explanation": "Sau good cần danh từ teaching, chỉ việc/phương pháp giảng dạy.",
+      "choices": [
+        "teaching",
+        "teach",
+        "taught",
+        "teacher"
+      ]
+    },
+    {
+      "id": "q-111",
+      "number": 111,
+      "prompt": "Please _____ the classroom.",
+      "sourceWord": "CLEAN",
+      "section": "CLEAN",
+      "answer": "clean",
+      "explanation": "Sau please dùng động từ nguyên mẫu.",
+      "choices": [
+        "cleaning",
+        "clean",
+        "cleanly",
+        "cleaned"
+      ]
+    },
+    {
+      "id": "q-112",
+      "number": 112,
+      "prompt": "The room is very _____.",
+      "sourceWord": "CLEAN",
+      "section": "CLEAN",
+      "answer": "clean",
+      "explanation": "Sau is very cần tính từ clean (sạch).",
+      "choices": [
+        "cleaning",
+        "cleanly",
+        "clean",
+        "cleaned"
+      ]
+    },
+    {
+      "id": "q-113",
+      "number": 113,
+      "prompt": "We need a _____ environment.",
+      "sourceWord": "CLEAN",
+      "section": "CLEAN",
+      "answer": "clean",
+      "explanation": "Trước environment cần tính từ clean.",
+      "choices": [
+        "cleaned",
+        "cleanly",
+        "cleaning",
+        "clean"
+      ]
+    },
+    {
+      "id": "q-114",
+      "number": 114,
+      "prompt": "The _____ of the park is important.",
+      "sourceWord": "CLEAN",
+      "section": "CLEAN",
+      "answer": "cleaning",
+      "explanation": "Sau the cần danh từ hóa V-ing cleaning, chỉ việc dọn dẹp.",
+      "choices": [
+        "cleaning",
+        "clean",
+        "cleaned",
+        "cleanly"
+      ]
+    },
+    {
+      "id": "q-115",
+      "number": 115,
+      "prompt": "They are _____ the street.",
+      "sourceWord": "CLEAN",
+      "section": "CLEAN",
+      "answer": "cleaning",
+      "explanation": "Sau are dùng V-ing trong cấu trúc đang diễn ra.",
+      "choices": [
+        "clean",
+        "cleaning",
+        "cleanly",
+        "cleaned"
+      ]
+    },
+    {
+      "id": "q-116",
+      "number": 116,
+      "prompt": "A _____ helps keep the building tidy.",
+      "sourceWord": "CLEAN",
+      "section": "CLEAN",
+      "answer": "cleaner",
+      "explanation": "Sau a cần danh từ chỉ người; cleaner là người dọn dẹp.",
+      "choices": [
+        "cleaning",
+        "clean",
+        "cleaner",
+        "cleanly"
+      ]
+    },
+    {
+      "id": "q-117",
+      "number": 117,
+      "prompt": "The kitchen needs a deep _____.",
+      "sourceWord": "CLEAN",
+      "section": "CLEAN",
+      "answer": "cleaning",
+      "explanation": "Sau a deep cần danh từ cleaning, nghĩa là việc làm sạch.",
+      "choices": [
+        "cleaned",
+        "clean",
+        "cleanly",
+        "cleaning"
+      ]
+    },
+    {
+      "id": "q-118",
+      "number": 118,
+      "prompt": "She works _____ every day.",
+      "sourceWord": "CLEAN",
+      "section": "CLEAN",
+      "answer": "cleanly",
+      "explanation": "Bổ nghĩa cho works cần trạng từ cleanly (một cách sạch sẽ/gọn gàng).",
+      "choices": [
+        "cleanly",
+        "cleaning",
+        "cleaner",
+        "clean"
+      ]
+    },
+    {
+      "id": "q-119",
+      "number": 119,
+      "prompt": "The _____ of this area is impressive.",
+      "sourceWord": "CLEAN",
+      "section": "CLEAN",
+      "answer": "cleanliness",
+      "explanation": "Sau the cần danh từ cleanliness, nghĩa là sự sạch sẽ.",
+      "choices": [
+        "cleanly",
+        "cleanliness",
+        "clean",
+        "cleaned"
+      ]
+    },
+    {
+      "id": "q-120",
+      "number": 120,
+      "prompt": "This is a _____ job.",
+      "sourceWord": "CLEAN",
+      "section": "CLEAN",
+      "answer": "cleaning",
+      "explanation": "Cleaning đứng trước job để bổ nghĩa, chỉ công việc dọn dẹp.",
+      "choices": [
+        "cleanliness",
+        "cleanly",
+        "cleaning",
+        "cleaned"
+      ]
+    },
+    {
+      "id": "q-121",
+      "number": 121,
+      "prompt": "Please _____ the litter.",
+      "sourceWord": "PICK UP",
+      "section": "PICK UP",
+      "answer": "pick up",
+      "explanation": "Sau please dùng động từ nguyên mẫu; pick up nghĩa là nhặt lên.",
+      "choices": [
+        "picked up",
+        "pickup",
+        "picking up",
+        "pick up"
+      ]
+    },
+    {
+      "id": "q-122",
+      "number": 122,
+      "prompt": "The children are _____ rubbish.",
+      "sourceWord": "PICK UP",
+      "section": "PICK UP",
+      "answer": "picking up",
+      "explanation": "Sau are dùng V-ing; picking up là đang nhặt.",
+      "choices": [
+        "picking up",
+        "picked up",
+        "pickup",
+        "pick up"
+      ]
+    },
+    {
+      "id": "q-123",
+      "number": 123,
+      "prompt": "We need to _____ the bottles.",
+      "sourceWord": "PICK UP",
+      "section": "PICK UP",
+      "answer": "pick up",
+      "explanation": "Sau to dùng động từ nguyên mẫu.",
+      "choices": [
+        "picked up",
+        "pick up",
+        "pickup",
+        "picking up"
+      ]
+    },
+    {
+      "id": "q-124",
+      "number": 124,
+      "prompt": "The _____ of litter keeps the park tidy.",
+      "sourceWord": "PICK UP",
+      "section": "PICK UP",
+      "answer": "pickup",
+      "explanation": "Pickup có thể dùng như danh từ ghép chỉ việc thu gom/nhặt; cần danh từ sau the.",
+      "choices": [
+        "pick up",
+        "picked up",
+        "pickup",
+        "picks up"
+      ]
+    },
+    {
+      "id": "q-125",
+      "number": 125,
+      "prompt": "They _____ paper from the floor.",
+      "sourceWord": "PICK UP",
+      "section": "PICK UP",
+      "answer": "pick up",
+      "explanation": "Chủ ngữ they đi với động từ nguyên mẫu.",
+      "choices": [
+        "picked up",
+        "pickup",
+        "picking up",
+        "pick up"
+      ]
+    },
+    {
+      "id": "q-126",
+      "number": 126,
+      "prompt": "The volunteers collected the _____ after the event.",
+      "sourceWord": "PICK UP",
+      "section": "PICK UP",
+      "answer": "pickup",
+      "explanation": "Sau the cần danh từ pickup, nghĩa là việc thu gom.",
+      "choices": [
+        "pickup",
+        "pick up",
+        "picked up",
+        "picking"
+      ]
+    },
+    {
+      "id": "q-127",
+      "number": 127,
+      "prompt": "Remember to _____ your toys.",
+      "sourceWord": "PICK UP",
+      "section": "PICK UP",
+      "answer": "pick up",
+      "explanation": "Sau to dùng động từ nguyên mẫu.",
+      "choices": [
+        "picked up",
+        "pick up",
+        "picking up",
+        "pickup"
+      ]
+    },
+    {
+      "id": "q-128",
+      "number": 128,
+      "prompt": "A quick _____ makes the room look better.",
+      "sourceWord": "PICK UP",
+      "section": "PICK UP",
+      "answer": "pickup",
+      "explanation": "Sau a quick cần danh từ pickup, chỉ việc thu dọn nhanh.",
+      "choices": [
+        "picked up",
+        "picks up",
+        "pickup",
+        "pickups"
+      ]
+    },
+    {
+      "id": "q-129",
+      "number": 129,
+      "prompt": "She is _____ leaves in the garden.",
+      "sourceWord": "PICK UP",
+      "section": "PICK UP",
+      "answer": "picking up",
+      "explanation": "Sau is dùng V-ing; picking up là đang nhặt.",
+      "choices": [
+        "picked up",
+        "pick up",
+        "pickup",
+        "picking up"
+      ]
+    },
+    {
+      "id": "q-130",
+      "number": 130,
+      "prompt": "The _____ truck arrived early.",
+      "sourceWord": "PICK UP",
+      "section": "PICK UP",
+      "answer": "pickup",
+      "explanation": "Pickup đứng trước truck để bổ nghĩa, tạo cụm pickup truck.",
+      "choices": [
+        "pickup",
+        "picks up",
+        "picking",
+        "picked up"
+      ]
+    }
+  ]
+}

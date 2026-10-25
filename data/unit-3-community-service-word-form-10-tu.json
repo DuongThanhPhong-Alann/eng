@@ -1,0 +1,1960 @@
+{
+  "id": "unit-3-community-service-word-form-10-tu",
+  "title": "Unit 3 · Community Service — Word Form",
+  "subtitle": "10 từ/cụm từ · 130 câu",
+  "description": "Bài tập điền dạng từ theo 10 nhóm từ, có đáp án và giải thích tiếng Việt.",
+  "sourceFile": "word_form_130_cau_10_tu.docx",
+  "questionCount": 130,
+  "questions": [
+    {
+      "id": "q-001",
+      "number": 1,
+      "section": "1. HOMELESS",
+      "prompt": "Many people have no permanent _____ to live in.",
+      "sourceWord": "HOME",
+      "answer": "home",
+      "explanation": "Sau tính từ sở hữu/permanent cần danh từ; “a home” nghĩa là một mái nhà.",
+      "choices": [
+        "homeliness",
+        "home",
+        "homely",
+        "homeless"
+      ]
+    },
+    {
+      "id": "q-002",
+      "number": 2,
+      "section": "1. HOMELESS",
+      "prompt": "The charity provides food for _____ people.",
+      "sourceWord": "HOME",
+      "answer": "homeless",
+      "explanation": "Trước danh từ people cần tính từ; homeless = vô gia cư.",
+      "choices": [
+        "homelessly",
+        "homeliness",
+        "homeless",
+        "homely"
+      ]
+    },
+    {
+      "id": "q-003",
+      "number": 3,
+      "section": "1. HOMELESS",
+      "prompt": "The problem of _____ is serious in big cities.",
+      "sourceWord": "HOME",
+      "answer": "homelessness",
+      "explanation": "Sau “of” cần danh từ; homelessness = tình trạng vô gia cư.",
+      "choices": [
+        "homeless",
+        "homely",
+        "homelessly",
+        "homelessness"
+      ]
+    },
+    {
+      "id": "q-004",
+      "number": 4,
+      "section": "1. HOMELESS",
+      "prompt": "They built a small _____ for the family.",
+      "sourceWord": "HOME",
+      "answer": "home",
+      "explanation": "Sau mạo từ “a” cần danh từ số ít; home = nhà.",
+      "choices": [
+        "home",
+        "homeless",
+        "homes",
+        "homely"
+      ]
+    },
+    {
+      "id": "q-005",
+      "number": 5,
+      "section": "1. HOMELESS",
+      "prompt": "The organization helps people who are _____.",
+      "sourceWord": "HOME",
+      "answer": "homeless",
+      "explanation": "Sau “are” cần tính từ để miêu tả people; homeless = vô gia cư.",
+      "choices": [
+        "homeliness",
+        "homeless",
+        "homelessly",
+        "homely"
+      ]
+    },
+    {
+      "id": "q-006",
+      "number": 6,
+      "section": "1. HOMELESS",
+      "prompt": "A safe _____ is important for every child.",
+      "sourceWord": "HOME",
+      "answer": "home",
+      "explanation": "Trước “is” là chủ ngữ nên cần danh từ; home = mái ấm.",
+      "choices": [
+        "homely",
+        "homeless",
+        "home",
+        "homes"
+      ]
+    },
+    {
+      "id": "q-007",
+      "number": 7,
+      "section": "1. HOMELESS",
+      "prompt": "The city is trying to reduce _____.",
+      "sourceWord": "HOME",
+      "answer": "homelessness",
+      "explanation": "Sau động từ “reduce” cần danh từ làm tân ngữ; homelessness = tình trạng vô gia cư.",
+      "choices": [
+        "homely",
+        "homeless",
+        "homelessly",
+        "homelessness"
+      ]
+    },
+    {
+      "id": "q-008",
+      "number": 8,
+      "section": "1. HOMELESS",
+      "prompt": "Some _____ families need support.",
+      "sourceWord": "HOME",
+      "answer": "homeless",
+      "explanation": "Trước danh từ families cần tính từ; homeless = không có nhà ở.",
+      "choices": [
+        "homeless",
+        "homelessly",
+        "homeliness",
+        "homely"
+      ]
+    },
+    {
+      "id": "q-009",
+      "number": 9,
+      "section": "1. HOMELESS",
+      "prompt": "They finally found a new _____.",
+      "sourceWord": "HOME",
+      "answer": "home",
+      "explanation": "Sau “a new” cần danh từ số ít; home = nơi ở.",
+      "choices": [
+        "homeless",
+        "home",
+        "homes",
+        "homely"
+      ]
+    },
+    {
+      "id": "q-010",
+      "number": 10,
+      "section": "1. HOMELESS",
+      "prompt": "The number of _____ people has increased.",
+      "sourceWord": "HOME",
+      "answer": "homeless",
+      "explanation": "Trước people cần tính từ; homeless people = người vô gia cư.",
+      "choices": [
+        "homely",
+        "homelessly",
+        "homeless",
+        "homeliness"
+      ]
+    },
+    {
+      "id": "q-011",
+      "number": 11,
+      "section": "1. HOMELESS",
+      "prompt": "Everyone deserves a comfortable _____.",
+      "sourceWord": "HOME",
+      "answer": "home",
+      "explanation": "Sau tính từ comfortable cần danh từ; home = ngôi nhà.",
+      "choices": [
+        "homes",
+        "homeless",
+        "homely",
+        "home"
+      ]
+    },
+    {
+      "id": "q-012",
+      "number": 12,
+      "section": "1. HOMELESS",
+      "prompt": "The report discusses _____ in the city.",
+      "sourceWord": "HOME",
+      "answer": "homelessness",
+      "explanation": "Sau động từ “discusses” cần danh từ; homelessness là vấn đề được bàn đến.",
+      "choices": [
+        "homelessness",
+        "homelessly",
+        "homely",
+        "homeless"
+      ]
+    },
+    {
+      "id": "q-013",
+      "number": 13,
+      "section": "1. HOMELESS",
+      "prompt": "They offered _____ people temporary accommodation.",
+      "sourceWord": "HOME",
+      "answer": "homeless",
+      "explanation": "Trước people cần tính từ; homeless people = người vô gia cư.",
+      "choices": [
+        "homeliness",
+        "homeless",
+        "homelessly",
+        "homely"
+      ]
+    },
+    {
+      "id": "q-014",
+      "number": 14,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "Every _____ needs care and protection.",
+      "sourceWord": "CHILD",
+      "answer": "child",
+      "explanation": "Sau every dùng danh từ số ít; child = trẻ em.",
+      "choices": [
+        "childhood",
+        "childish",
+        "child",
+        "children"
+      ]
+    },
+    {
+      "id": "q-015",
+      "number": 15,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "The charity supports _____ children.",
+      "sourceWord": "HOME",
+      "answer": "homeless",
+      "explanation": "Trước children cần tính từ homeless để chỉ trẻ em vô gia cư.",
+      "choices": [
+        "homeliness",
+        "homelessly",
+        "homely",
+        "homeless"
+      ]
+    },
+    {
+      "id": "q-016",
+      "number": 16,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "The _____ of the school are playing outside.",
+      "sourceWord": "CHILD",
+      "answer": "children",
+      "explanation": "Động từ are cho thấy chủ ngữ số nhiều; children là dạng số nhiều bất quy tắc của child.",
+      "choices": [
+        "children",
+        "child",
+        "childish",
+        "childhood"
+      ]
+    },
+    {
+      "id": "q-017",
+      "number": 17,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "This book is suitable for _____.",
+      "sourceWord": "CHILD",
+      "answer": "children",
+      "explanation": "Sau giới từ for cần danh từ; children = trẻ em.",
+      "choices": [
+        "childish",
+        "children",
+        "childhood",
+        "child"
+      ]
+    },
+    {
+      "id": "q-018",
+      "number": 18,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "Good _____ is important for a child's future.",
+      "sourceWord": "EDUCATE",
+      "answer": "education",
+      "explanation": "Chỗ trống là chủ ngữ và mang nghĩa sự giáo dục; cần danh từ education.",
+      "choices": [
+        "educated",
+        "educational",
+        "education",
+        "educate"
+      ]
+    },
+    {
+      "id": "q-019",
+      "number": 19,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "The center provides _____ activities.",
+      "sourceWord": "CHILD",
+      "answer": "child-friendly",
+      "explanation": "Trước activities cần từ bổ nghĩa; child-friendly = phù hợp với trẻ em.",
+      "choices": [
+        "children",
+        "childless",
+        "childhood",
+        "child-friendly"
+      ]
+    },
+    {
+      "id": "q-020",
+      "number": 20,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "Many _____ live in difficult conditions.",
+      "sourceWord": "CHILD",
+      "answer": "children",
+      "explanation": "Sau many dùng danh từ số nhiều; children = trẻ em.",
+      "choices": [
+        "children",
+        "childish",
+        "child",
+        "childhood"
+      ]
+    },
+    {
+      "id": "q-021",
+      "number": 21,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "The program aims to protect _____ children.",
+      "sourceWord": "HOME",
+      "answer": "homeless",
+      "explanation": "Trước children cần tính từ homeless.",
+      "choices": [
+        "homeliness",
+        "homeless",
+        "homelessly",
+        "homely"
+      ]
+    },
+    {
+      "id": "q-022",
+      "number": 22,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "A _____ needs a safe place to grow up.",
+      "sourceWord": "CHILD",
+      "answer": "child",
+      "explanation": "Sau mạo từ a cần danh từ số ít; child = một đứa trẻ.",
+      "choices": [
+        "childish",
+        "childhood",
+        "child",
+        "children"
+      ]
+    },
+    {
+      "id": "q-023",
+      "number": 23,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "The organization gives clothes to homeless _____.",
+      "sourceWord": "CHILD",
+      "answer": "children",
+      "explanation": "Sau homeless cần danh từ; ngữ cảnh nói về nhiều trẻ em nên dùng children.",
+      "choices": [
+        "childish",
+        "childhood",
+        "child",
+        "children"
+      ]
+    },
+    {
+      "id": "q-024",
+      "number": 24,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "Their _____ was spent in a small village.",
+      "sourceWord": "CHILD",
+      "answer": "childhood",
+      "explanation": "Trước was spent cần danh từ làm chủ ngữ; childhood = tuổi thơ.",
+      "choices": [
+        "childhood",
+        "childishness",
+        "child",
+        "children"
+      ]
+    },
+    {
+      "id": "q-025",
+      "number": 25,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "The teacher speaks _____ to the young learners.",
+      "sourceWord": "GENTLE",
+      "answer": "gently",
+      "explanation": "Bổ nghĩa cho động từ speaks cần trạng từ gently = một cách nhẹ nhàng.",
+      "choices": [
+        "gentle",
+        "gently",
+        "gentler",
+        "gentleness"
+      ]
+    },
+    {
+      "id": "q-026",
+      "number": 26,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "The center offers support for every _____.",
+      "sourceWord": "CHILD",
+      "answer": "child",
+      "explanation": "Sau every dùng danh từ số ít; child = trẻ em.",
+      "choices": [
+        "childhood",
+        "children",
+        "child",
+        "childish"
+      ]
+    },
+    {
+      "id": "q-027",
+      "number": 27,
+      "section": "3. ORPHAN",
+      "prompt": "The young _____ has no parents.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphan",
+      "explanation": "Sau the young cần danh từ chỉ người; orphan = trẻ mồ côi.",
+      "choices": [
+        "orphanage",
+        "orphans",
+        "orphaned",
+        "orphan"
+      ]
+    },
+    {
+      "id": "q-028",
+      "number": 28,
+      "section": "3. ORPHAN",
+      "prompt": "The child was _____ at an early age.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphaned",
+      "explanation": "Sau was cần phân từ/tính từ diễn tả tình trạng; orphaned = mồ côi.",
+      "choices": [
+        "orphaned",
+        "orphan",
+        "orphanage",
+        "orphaning"
+      ]
+    },
+    {
+      "id": "q-029",
+      "number": 29,
+      "section": "3. ORPHAN",
+      "prompt": "The charity helps _____ children.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphaned",
+      "explanation": "Trước children cần tính từ/phân từ orphaned = bị mồ côi.",
+      "choices": [
+        "orphaning",
+        "orphaned",
+        "orphans",
+        "orphanage"
+      ]
+    },
+    {
+      "id": "q-030",
+      "number": 30,
+      "section": "3. ORPHAN",
+      "prompt": "The _____ received food and clothes.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphan",
+      "explanation": "Cần danh từ chỉ người làm chủ ngữ; orphan = người mồ côi.",
+      "choices": [
+        "orphanage's",
+        "orphan's",
+        "orphan",
+        "orphaning"
+      ]
+    },
+    {
+      "id": "q-031",
+      "number": 31,
+      "section": "3. ORPHAN",
+      "prompt": "Many _____ need emotional support.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphans",
+      "explanation": "Sau many dùng danh từ số nhiều; orphans = những người mồ côi.",
+      "choices": [
+        "orphanage",
+        "orphaned",
+        "orphan",
+        "orphans"
+      ]
+    },
+    {
+      "id": "q-032",
+      "number": 32,
+      "section": "3. ORPHAN",
+      "prompt": "The child became an _____ after the accident.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphan",
+      "explanation": "Sau an cần danh từ bắt đầu bằng nguyên âm; orphan = trẻ mồ côi.",
+      "choices": [
+        "orphan",
+        "orphans",
+        "orphaned",
+        "orphanage"
+      ]
+    },
+    {
+      "id": "q-033",
+      "number": 33,
+      "section": "3. ORPHAN",
+      "prompt": "The program provides care for _____.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphans",
+      "explanation": "Sau for cần danh từ; nghĩa chung là những trẻ mồ côi.",
+      "choices": [
+        "orphan",
+        "orphans",
+        "orphaned",
+        "orphanage"
+      ]
+    },
+    {
+      "id": "q-034",
+      "number": 34,
+      "section": "3. ORPHAN",
+      "prompt": "She works with _____ children.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphaned",
+      "explanation": "Trước children cần từ miêu tả; orphaned = mồ côi.",
+      "choices": [
+        "orphan's",
+        "orphanhood",
+        "orphaned",
+        "orphaning"
+      ]
+    },
+    {
+      "id": "q-035",
+      "number": 35,
+      "section": "3. ORPHAN",
+      "prompt": "The _____ was kind to all the children.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphan",
+      "explanation": "Cần danh từ chỉ người làm chủ ngữ; orphan.",
+      "choices": [
+        "orphanage",
+        "orphaned",
+        "orphans",
+        "orphan"
+      ]
+    },
+    {
+      "id": "q-036",
+      "number": 36,
+      "section": "3. ORPHAN",
+      "prompt": "The town built a home for _____.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphans",
+      "explanation": "Sau for cần danh từ số nhiều theo nghĩa chung; orphans.",
+      "choices": [
+        "orphans",
+        "orphanage",
+        "orphaned",
+        "orphan"
+      ]
+    },
+    {
+      "id": "q-037",
+      "number": 37,
+      "section": "3. ORPHAN",
+      "prompt": "The child had been _____ since birth.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphaned",
+      "explanation": "Sau had been dùng phân từ quá khứ trong cấu trúc bị động/diễn tả tình trạng.",
+      "choices": [
+        "orphan",
+        "orphaned",
+        "orphaning",
+        "orphanage"
+      ]
+    },
+    {
+      "id": "q-038",
+      "number": 38,
+      "section": "3. ORPHAN",
+      "prompt": "The _____ received help from the community.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphan",
+      "explanation": "Sau the cần danh từ; orphan = người mồ côi.",
+      "choices": [
+        "orphan's",
+        "orphanage's",
+        "orphan",
+        "orphaning"
+      ]
+    },
+    {
+      "id": "q-039",
+      "number": 39,
+      "section": "3. ORPHAN",
+      "prompt": "The organization cares for _____ children.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphaned",
+      "explanation": "Trước children cần tính từ orphaned.",
+      "choices": [
+        "orphanedness",
+        "orphan's",
+        "orphaning",
+        "orphaned"
+      ]
+    },
+    {
+      "id": "q-040",
+      "number": 40,
+      "section": "4. ORPHANAGE",
+      "prompt": "The children live in an _____.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Sau “an” cần danh từ số ít; orphanage = trại trẻ mồ côi.",
+      "choices": [
+        "orphanage",
+        "orphaning",
+        "orphaned",
+        "orphans"
+      ]
+    },
+    {
+      "id": "q-041",
+      "number": 41,
+      "section": "4. ORPHANAGE",
+      "prompt": "The _____ provides food and shelter.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Cần danh từ làm chủ ngữ; orphanage = cơ sở chăm sóc trẻ mồ côi.",
+      "choices": [
+        "orphans",
+        "orphanage",
+        "orphaned",
+        "orphan"
+      ]
+    },
+    {
+      "id": "q-042",
+      "number": 42,
+      "section": "4. ORPHANAGE",
+      "prompt": "She works at a local _____.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Sau “a local” cần danh từ số ít.",
+      "choices": [
+        "orphaned",
+        "orphans",
+        "orphanage",
+        "orphan"
+      ]
+    },
+    {
+      "id": "q-043",
+      "number": 43,
+      "section": "4. ORPHANAGE",
+      "prompt": "The _____ is clean and safe.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Cần danh từ làm chủ ngữ; orphanage.",
+      "choices": [
+        "orphans",
+        "orphaned",
+        "orphan",
+        "orphanage"
+      ]
+    },
+    {
+      "id": "q-044",
+      "number": 44,
+      "section": "4. ORPHANAGE",
+      "prompt": "Many volunteers visit the _____.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Sau the cần danh từ chỉ nơi chốn.",
+      "choices": [
+        "orphanage",
+        "orphaned",
+        "orphans",
+        "orphan"
+      ]
+    },
+    {
+      "id": "q-045",
+      "number": 45,
+      "section": "4. ORPHANAGE",
+      "prompt": "The children at the _____ need books.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Sau at the cần danh từ chỉ địa điểm.",
+      "choices": [
+        "orphaned",
+        "orphanage",
+        "orphans",
+        "orphan"
+      ]
+    },
+    {
+      "id": "q-046",
+      "number": 46,
+      "section": "4. ORPHANAGE",
+      "prompt": "They donated money to the _____.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Sau the cần danh từ; orphanage là nơi nhận tiền quyên góp.",
+      "choices": [
+        "orphans",
+        "orphaned",
+        "orphanage",
+        "orphan"
+      ]
+    },
+    {
+      "id": "q-047",
+      "number": 47,
+      "section": "4. ORPHANAGE",
+      "prompt": "The new _____ can care for more children.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Trước động từ can cần chủ ngữ là danh từ; orphanage.",
+      "choices": [
+        "orphans",
+        "orphaned",
+        "orphan",
+        "orphanage"
+      ]
+    },
+    {
+      "id": "q-048",
+      "number": 48,
+      "section": "4. ORPHANAGE",
+      "prompt": "The _____ staff look after the children.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Trước staff cần danh từ bổ nghĩa chỉ nơi làm việc; orphanage staff.",
+      "choices": [
+        "orphanage",
+        "orphaned",
+        "orphans",
+        "orphan"
+      ]
+    },
+    {
+      "id": "q-049",
+      "number": 49,
+      "section": "4. ORPHANAGE",
+      "prompt": "The family visited an _____ yesterday.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Sau an cần danh từ số ít.",
+      "choices": [
+        "orphaned",
+        "orphanage",
+        "orphans",
+        "orphaning"
+      ]
+    },
+    {
+      "id": "q-050",
+      "number": 50,
+      "section": "4. ORPHANAGE",
+      "prompt": "The _____ needs more volunteers.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Cần danh từ làm chủ ngữ.",
+      "choices": [
+        "orphan",
+        "orphaned",
+        "orphanage",
+        "orphans"
+      ]
+    },
+    {
+      "id": "q-051",
+      "number": 51,
+      "section": "4. ORPHANAGE",
+      "prompt": "Children at the _____ receive an education.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Sau at the cần danh từ chỉ nơi chốn.",
+      "choices": [
+        "orphan",
+        "orphans",
+        "orphaned",
+        "orphanage"
+      ]
+    },
+    {
+      "id": "q-052",
+      "number": 52,
+      "section": "4. ORPHANAGE",
+      "prompt": "The local _____ organizes activities for children.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Trước organizes cần danh từ làm chủ ngữ.",
+      "choices": [
+        "orphanage",
+        "orphaned",
+        "orphans",
+        "orphan"
+      ]
+    },
+    {
+      "id": "q-053",
+      "number": 53,
+      "section": "5. RURAL",
+      "prompt": "Many people live in _____ areas.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural = thuộc nông thôn.",
+      "choices": [
+        "ruralism",
+        "rural",
+        "rurality",
+        "rurally"
+      ]
+    },
+    {
+      "id": "q-054",
+      "number": 54,
+      "section": "5. RURAL",
+      "prompt": "People in the _____ live far from the city.",
+      "sourceWord": "RURAL",
+      "answer": "countryside",
+      "explanation": "Sau the cần danh từ chỉ vùng nông thôn; countryside là danh từ. Đây là từ liên quan về nghĩa với rural.",
+      "choices": [
+        "ruralism",
+        "rurality",
+        "countryside",
+        "rurally"
+      ]
+    },
+    {
+      "id": "q-055",
+      "number": 55,
+      "section": "5. RURAL",
+      "prompt": "The village is in a _____ region.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước region cần tính từ rural.",
+      "choices": [
+        "ruralism",
+        "rurality",
+        "rurally",
+        "rural"
+      ]
+    },
+    {
+      "id": "q-056",
+      "number": 56,
+      "section": "5. RURAL",
+      "prompt": "Some _____ communities lack public transport.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước communities cần tính từ rural.",
+      "choices": [
+        "rural",
+        "rurality",
+        "rurally",
+        "ruralism"
+      ]
+    },
+    {
+      "id": "q-057",
+      "number": 57,
+      "section": "5. RURAL",
+      "prompt": "They provide healthcare in _____ areas.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rurally",
+        "rural",
+        "rurality",
+        "ruralism"
+      ]
+    },
+    {
+      "id": "q-058",
+      "number": 58,
+      "section": "5. RURAL",
+      "prompt": "The family moved from the city to a _____ village.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước village cần tính từ rural.",
+      "choices": [
+        "ruralism",
+        "rurality",
+        "rural",
+        "rurally"
+      ]
+    },
+    {
+      "id": "q-059",
+      "number": 59,
+      "section": "5. RURAL",
+      "prompt": "Many schools in _____ areas need support.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rurally",
+        "rurality",
+        "ruralism",
+        "rural"
+      ]
+    },
+    {
+      "id": "q-060",
+      "number": 60,
+      "section": "5. RURAL",
+      "prompt": "The project helps people in the _____ countryside.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước countryside cần tính từ rural.",
+      "choices": [
+        "rural",
+        "rurality",
+        "ruralism",
+        "rurally"
+      ]
+    },
+    {
+      "id": "q-061",
+      "number": 61,
+      "section": "5. RURAL",
+      "prompt": "There are fewer buses in _____ regions.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước regions cần tính từ rural.",
+      "choices": [
+        "rurally",
+        "rural",
+        "rurality",
+        "ruralism"
+      ]
+    },
+    {
+      "id": "q-062",
+      "number": 62,
+      "section": "5. RURAL",
+      "prompt": "The _____ population is spread across small villages.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước population cần tính từ rural.",
+      "choices": [
+        "rurality",
+        "rurally",
+        "rural",
+        "ruralism"
+      ]
+    },
+    {
+      "id": "q-063",
+      "number": 63,
+      "section": "5. RURAL",
+      "prompt": "They work to improve life in _____ communities.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước communities cần tính từ rural.",
+      "choices": [
+        "rurality",
+        "ruralism",
+        "rurally",
+        "rural"
+      ]
+    },
+    {
+      "id": "q-064",
+      "number": 64,
+      "section": "5. RURAL",
+      "prompt": "This school serves children from _____ areas.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rural",
+        "ruralism",
+        "rurally",
+        "rurality"
+      ]
+    },
+    {
+      "id": "q-065",
+      "number": 65,
+      "section": "5. RURAL",
+      "prompt": "Access to the internet is limited in some _____ places.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước places cần tính từ rural.",
+      "choices": [
+        "ruralism",
+        "rural",
+        "rurality",
+        "rurally"
+      ]
+    },
+    {
+      "id": "q-066",
+      "number": 66,
+      "section": "6. RURAL AREAS",
+      "prompt": "People in _____ areas may travel far to reach a hospital.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rurality",
+        "rurally",
+        "rural",
+        "ruralism"
+      ]
+    },
+    {
+      "id": "q-067",
+      "number": 67,
+      "section": "6. RURAL AREAS",
+      "prompt": "Many _____ areas have beautiful landscapes.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rurally",
+        "ruralism",
+        "rurality",
+        "rural"
+      ]
+    },
+    {
+      "id": "q-068",
+      "number": 68,
+      "section": "6. RURAL AREAS",
+      "prompt": "The government is investing in _____ development.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước development cần tính từ rural.",
+      "choices": [
+        "rural",
+        "rurality",
+        "rurally",
+        "ruralism"
+      ]
+    },
+    {
+      "id": "q-069",
+      "number": 69,
+      "section": "6. RURAL AREAS",
+      "prompt": "Schools in _____ areas sometimes have fewer resources.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "ruralism",
+        "rural",
+        "rurality",
+        "rurally"
+      ]
+    },
+    {
+      "id": "q-070",
+      "number": 70,
+      "section": "6. RURAL AREAS",
+      "prompt": "Clean water is important for people living in _____ areas.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rurally",
+        "rurality",
+        "rural",
+        "ruralism"
+      ]
+    },
+    {
+      "id": "q-071",
+      "number": 71,
+      "section": "6. RURAL AREAS",
+      "prompt": "The project supports families in _____ areas.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rurality",
+        "rurally",
+        "ruralism",
+        "rural"
+      ]
+    },
+    {
+      "id": "q-072",
+      "number": 72,
+      "section": "6. RURAL AREAS",
+      "prompt": "There are many farms in _____ areas.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rural",
+        "ruralism",
+        "rurally",
+        "rurality"
+      ]
+    },
+    {
+      "id": "q-073",
+      "number": 73,
+      "section": "6. RURAL AREAS",
+      "prompt": "Children from _____ areas may need school buses.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rurally",
+        "rural",
+        "ruralism",
+        "rurality"
+      ]
+    },
+    {
+      "id": "q-074",
+      "number": 74,
+      "section": "6. RURAL AREAS",
+      "prompt": "The charity works in both urban and _____ areas.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Sau and cần tính từ song song với urban.",
+      "choices": [
+        "rurality",
+        "ruralism",
+        "rural",
+        "rurally"
+      ]
+    },
+    {
+      "id": "q-075",
+      "number": 75,
+      "section": "6. RURAL AREAS",
+      "prompt": "The hospital serves several _____ areas.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "ruralism",
+        "rurally",
+        "rurality",
+        "rural"
+      ]
+    },
+    {
+      "id": "q-076",
+      "number": 76,
+      "section": "6. RURAL AREAS",
+      "prompt": "Life in _____ areas is often quieter than city life.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rural",
+        "rurality",
+        "ruralism",
+        "rurally"
+      ]
+    },
+    {
+      "id": "q-077",
+      "number": 77,
+      "section": "6. RURAL AREAS",
+      "prompt": "The program brings computers to _____ areas.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "ruralism",
+        "rural",
+        "rurally",
+        "rurality"
+      ]
+    },
+    {
+      "id": "q-078",
+      "number": 78,
+      "section": "6. RURAL AREAS",
+      "prompt": "Better roads can help connect remote _____ areas.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rurally",
+        "rurality",
+        "rural",
+        "ruralism"
+      ]
+    },
+    {
+      "id": "q-079",
+      "number": 79,
+      "section": "7. ELDERLY",
+      "prompt": "The _____ need access to good healthcare.",
+      "sourceWord": "ELDER",
+      "answer": "elderly",
+      "explanation": "The elderly chỉ người cao tuổi nói chung và đi với động từ số nhiều.",
+      "choices": [
+        "elderliness",
+        "elder's",
+        "elder",
+        "elderly"
+      ]
+    },
+    {
+      "id": "q-080",
+      "number": 80,
+      "section": "7. ELDERLY",
+      "prompt": "We should treat older people with _____.",
+      "sourceWord": "RESPECT",
+      "answer": "respect",
+      "explanation": "Sau with cần danh từ; respect = sự tôn trọng.",
+      "choices": [
+        "respect",
+        "respective",
+        "respectful",
+        "respectfully"
+      ]
+    },
+    {
+      "id": "q-081",
+      "number": 81,
+      "section": "7. ELDERLY",
+      "prompt": "The center provides care for the _____.",
+      "sourceWord": "ELDER",
+      "answer": "elderly",
+      "explanation": "Sau the dùng elderly để chỉ người cao tuổi nói chung.",
+      "choices": [
+        "elder's",
+        "elderly",
+        "elderliness",
+        "elder"
+      ]
+    },
+    {
+      "id": "q-082",
+      "number": 82,
+      "section": "7. ELDERLY",
+      "prompt": "My _____ brother is studying at university.",
+      "sourceWord": "OLD",
+      "answer": "older",
+      "explanation": "Trước brother cần tính từ so sánh older = lớn tuổi hơn.",
+      "choices": [
+        "oldness",
+        "olden",
+        "older",
+        "oldish"
+      ]
+    },
+    {
+      "id": "q-083",
+      "number": 83,
+      "section": "7. ELDERLY",
+      "prompt": "The _____ woman lives with her daughter.",
+      "sourceWord": "ELDER",
+      "answer": "elderly",
+      "explanation": "Trước woman cần tính từ elderly = cao tuổi.",
+      "choices": [
+        "elderhood",
+        "elderliness",
+        "elder's",
+        "elderly"
+      ]
+    },
+    {
+      "id": "q-084",
+      "number": 84,
+      "section": "7. ELDERLY",
+      "prompt": "The _____ woman receives help from volunteers.",
+      "sourceWord": "AGE",
+      "answer": "aged",
+      "explanation": "Trước woman cần tính từ aged = cao tuổi; elderly cũng là cách diễn đạt tự nhiên.",
+      "choices": [
+        "aged",
+        "ageism",
+        "age",
+        "oldness"
+      ]
+    },
+    {
+      "id": "q-085",
+      "number": 85,
+      "section": "7. ELDERLY",
+      "prompt": "The village has a home for the _____.",
+      "sourceWord": "ELDER",
+      "answer": "elderly",
+      "explanation": "Cụm the elderly chỉ người cao tuổi.",
+      "choices": [
+        "elderliness",
+        "elderly",
+        "elder",
+        "elder's"
+      ]
+    },
+    {
+      "id": "q-086",
+      "number": 86,
+      "section": "7. ELDERLY",
+      "prompt": "They help _____ people with daily tasks.",
+      "sourceWord": "ELDER",
+      "answer": "elderly",
+      "explanation": "Trước people cần tính từ elderly.",
+      "choices": [
+        "elder",
+        "elderliness",
+        "elderly",
+        "elder's"
+      ]
+    },
+    {
+      "id": "q-087",
+      "number": 87,
+      "section": "7. ELDERLY",
+      "prompt": "The _____ of the population is increasing.",
+      "sourceWord": "OLD",
+      "answer": "ageing",
+      "explanation": "Sau the và trước of cần danh từ/gerund ageing = sự già hóa; dùng cách viết Anh-Anh.",
+      "choices": [
+        "elderliness",
+        "ageism",
+        "agedness",
+        "ageing"
+      ]
+    },
+    {
+      "id": "q-088",
+      "number": 88,
+      "section": "7. ELDERLY",
+      "prompt": "We should be kind to our _____.",
+      "sourceWord": "ELDER",
+      "answer": "elders",
+      "explanation": "Sau our cần danh từ số nhiều elders = người lớn tuổi/bậc cao niên.",
+      "choices": [
+        "elders",
+        "elderliness",
+        "elderhood",
+        "elder's"
+      ]
+    },
+    {
+      "id": "q-089",
+      "number": 89,
+      "section": "7. ELDERLY",
+      "prompt": "The nurse spoke _____ to the elderly patient.",
+      "sourceWord": "GENTLE",
+      "answer": "gently",
+      "explanation": "Bổ nghĩa cho động từ spoke cần trạng từ gently.",
+      "choices": [
+        "gentleness",
+        "gently",
+        "gentler",
+        "gentle"
+      ]
+    },
+    {
+      "id": "q-090",
+      "number": 90,
+      "section": "7. ELDERLY",
+      "prompt": "Many elderly people need _____ support.",
+      "sourceWord": "EMOTION",
+      "answer": "emotional",
+      "explanation": "Trước support cần tính từ emotional = thuộc về cảm xúc/tinh thần.",
+      "choices": [
+        "emotionless",
+        "emotionally",
+        "emotional",
+        "emotion"
+      ]
+    },
+    {
+      "id": "q-091",
+      "number": 91,
+      "section": "7. ELDERLY",
+      "prompt": "The community organized activities for _____ residents.",
+      "sourceWord": "AGE",
+      "answer": "aged",
+      "explanation": "Trước residents có thể dùng aged để chỉ cư dân cao tuổi.",
+      "choices": [
+        "ageism",
+        "oldness",
+        "age",
+        "aged"
+      ]
+    },
+    {
+      "id": "q-092",
+      "number": 92,
+      "section": "8. GROW",
+      "prompt": "Plants need sunlight for healthy _____.",
+      "sourceWord": "GROW",
+      "answer": "growth",
+      "explanation": "Sau healthy cần danh từ growth = sự phát triển/sinh trưởng.",
+      "choices": [
+        "growth",
+        "grow",
+        "growing",
+        "grown"
+      ]
+    },
+    {
+      "id": "q-093",
+      "number": 93,
+      "section": "8. GROW",
+      "prompt": "Children _____ quickly in their early years.",
+      "sourceWord": "GROW",
+      "answer": "grow",
+      "explanation": "Chủ ngữ children số nhiều nên dùng động từ nguyên mẫu grow.",
+      "choices": [
+        "grown",
+        "grow",
+        "growing",
+        "grows"
+      ]
+    },
+    {
+      "id": "q-094",
+      "number": 94,
+      "section": "8. GROW",
+      "prompt": "The _____ of the town has been rapid.",
+      "sourceWord": "GROW",
+      "answer": "growth",
+      "explanation": "Cần danh từ làm chủ ngữ; growth = sự tăng trưởng.",
+      "choices": [
+        "growing",
+        "grow",
+        "growth",
+        "grown"
+      ]
+    },
+    {
+      "id": "q-095",
+      "number": 95,
+      "section": "8. GROW",
+      "prompt": "These plants are _____ well in the warm weather.",
+      "sourceWord": "GROW",
+      "answer": "growing",
+      "explanation": "Sau are dùng V-ing để tạo thì tiếp diễn; growing = đang phát triển.",
+      "choices": [
+        "grow",
+        "growth",
+        "grower",
+        "growing"
+      ]
+    },
+    {
+      "id": "q-096",
+      "number": 96,
+      "section": "8. GROW",
+      "prompt": "The tree has _____ very tall.",
+      "sourceWord": "GROW",
+      "answer": "grown",
+      "explanation": "Sau has dùng phân từ quá khứ grown.",
+      "choices": [
+        "grown",
+        "growth",
+        "grow",
+        "growing"
+      ]
+    },
+    {
+      "id": "q-097",
+      "number": 97,
+      "section": "8. GROW",
+      "prompt": "A _____ number of people use the service.",
+      "sourceWord": "GROW",
+      "answer": "growing",
+      "explanation": "Trước number cần tính từ/phân từ growing = ngày càng tăng.",
+      "choices": [
+        "growth",
+        "growing",
+        "grow",
+        "grower"
+      ]
+    },
+    {
+      "id": "q-098",
+      "number": 98,
+      "section": "8. GROW",
+      "prompt": "Good food helps children _____ strong.",
+      "sourceWord": "GROW",
+      "answer": "grow",
+      "explanation": "Sau help + tân ngữ có thể dùng động từ nguyên mẫu grow.",
+      "choices": [
+        "grown",
+        "grows",
+        "grow",
+        "growing"
+      ]
+    },
+    {
+      "id": "q-099",
+      "number": 99,
+      "section": "8. GROW",
+      "prompt": "The garden is full of _____ flowers.",
+      "sourceWord": "GROW",
+      "answer": "growing",
+      "explanation": "Trước flowers cần từ bổ nghĩa; growing = đang mọc/phát triển.",
+      "choices": [
+        "grow",
+        "grows",
+        "growth",
+        "growing"
+      ]
+    },
+    {
+      "id": "q-100",
+      "number": 100,
+      "section": "8. GROW",
+      "prompt": "The company wants to _____ its business.",
+      "sourceWord": "GROW",
+      "answer": "grow",
+      "explanation": "Sau want to dùng động từ nguyên mẫu grow.",
+      "choices": [
+        "grow",
+        "growing",
+        "grown",
+        "grows"
+      ]
+    },
+    {
+      "id": "q-101",
+      "number": 101,
+      "section": "8. GROW",
+      "prompt": "The plant's _____ was slow at first.",
+      "sourceWord": "GROW",
+      "answer": "growth",
+      "explanation": "Sở hữu cách plant's cần danh từ growth.",
+      "choices": [
+        "grown",
+        "growth",
+        "growing",
+        "grow"
+      ]
+    },
+    {
+      "id": "q-102",
+      "number": 102,
+      "section": "8. GROW",
+      "prompt": "The children have _____ into confident adults.",
+      "sourceWord": "GROW",
+      "answer": "grown",
+      "explanation": "Sau have dùng phân từ quá khứ grown.",
+      "choices": [
+        "growing",
+        "grow",
+        "grown",
+        "growth"
+      ]
+    },
+    {
+      "id": "q-103",
+      "number": 103,
+      "section": "8. GROW",
+      "prompt": "This area is suitable for _____ vegetables.",
+      "sourceWord": "GROW",
+      "answer": "growing",
+      "explanation": "Sau for dùng V-ing khi diễn tả hoạt động; growing vegetables = trồng rau.",
+      "choices": [
+        "grow",
+        "grower",
+        "growth",
+        "growing"
+      ]
+    },
+    {
+      "id": "q-104",
+      "number": 104,
+      "section": "8. GROW",
+      "prompt": "The business is _____ steadily.",
+      "sourceWord": "GROW",
+      "answer": "growing",
+      "explanation": "Sau is dùng V-ing trong thì tiếp diễn.",
+      "choices": [
+        "growing",
+        "grower",
+        "grow",
+        "growth"
+      ]
+    },
+    {
+      "id": "q-105",
+      "number": 105,
+      "section": "9. DEVELOP",
+      "prompt": "The country needs further economic _____.",
+      "sourceWord": "DEVELOP",
+      "answer": "development",
+      "explanation": "Trước economic và sau cần danh từ; development = sự phát triển.",
+      "choices": [
+        "developing",
+        "development",
+        "develop",
+        "developmental"
+      ]
+    },
+    {
+      "id": "q-106",
+      "number": 106,
+      "section": "9. DEVELOP",
+      "prompt": "Children _____ different skills at school.",
+      "sourceWord": "DEVELOP",
+      "answer": "develop",
+      "explanation": "Cần động từ develop = phát triển/rèn luyện.",
+      "choices": [
+        "developing",
+        "developed",
+        "develop",
+        "develops"
+      ]
+    },
+    {
+      "id": "q-107",
+      "number": 107,
+      "section": "9. DEVELOP",
+      "prompt": "The city is a _____ area.",
+      "sourceWord": "DEVELOP",
+      "answer": "developed",
+      "explanation": "Trước danh từ area cần tính từ developed = phát triển.",
+      "choices": [
+        "developer",
+        "developmentally",
+        "develop",
+        "developed"
+      ]
+    },
+    {
+      "id": "q-108",
+      "number": 108,
+      "section": "9. DEVELOP",
+      "prompt": "The _____ of new technology is important.",
+      "sourceWord": "DEVELOP",
+      "answer": "development",
+      "explanation": "Cần danh từ làm chủ ngữ; development = sự phát triển.",
+      "choices": [
+        "development",
+        "developmental",
+        "develop",
+        "developing"
+      ]
+    },
+    {
+      "id": "q-109",
+      "number": 109,
+      "section": "9. DEVELOP",
+      "prompt": "The company plans to _____ a new app.",
+      "sourceWord": "DEVELOP",
+      "answer": "develop",
+      "explanation": "Sau to cần động từ nguyên mẫu develop.",
+      "choices": [
+        "developed",
+        "develop",
+        "developing",
+        "develops"
+      ]
+    },
+    {
+      "id": "q-110",
+      "number": 110,
+      "section": "9. DEVELOP",
+      "prompt": "This is a _____ country with modern transport.",
+      "sourceWord": "DEVELOP",
+      "answer": "developed",
+      "explanation": "Trước country cần tính từ developed = đã phát triển.",
+      "choices": [
+        "developmentally",
+        "developer",
+        "developed",
+        "develop"
+      ]
+    },
+    {
+      "id": "q-111",
+      "number": 111,
+      "section": "9. DEVELOP",
+      "prompt": "The project is still under _____.",
+      "sourceWord": "DEVELOP",
+      "answer": "development",
+      "explanation": "Sau under cần danh từ; under development = đang được phát triển.",
+      "choices": [
+        "developmental",
+        "developing",
+        "develop",
+        "development"
+      ]
+    },
+    {
+      "id": "q-112",
+      "number": 112,
+      "section": "9. DEVELOP",
+      "prompt": "She is a software _____.",
+      "sourceWord": "DEVELOP",
+      "answer": "developer",
+      "explanation": "Sau a và trước ngữ cảnh nghề nghiệp cần danh từ chỉ người developer.",
+      "choices": [
+        "developer",
+        "developing",
+        "develop",
+        "development"
+      ]
+    },
+    {
+      "id": "q-113",
+      "number": 113,
+      "section": "9. DEVELOP",
+      "prompt": "The region is _____ rapidly.",
+      "sourceWord": "DEVELOP",
+      "answer": "developing",
+      "explanation": "Sau is dùng V-ing để diễn tả đang phát triển.",
+      "choices": [
+        "develop",
+        "developing",
+        "development",
+        "developed"
+      ]
+    },
+    {
+      "id": "q-114",
+      "number": 114,
+      "section": "9. DEVELOP",
+      "prompt": "Good education supports children's _____.",
+      "sourceWord": "DEVELOP",
+      "answer": "development",
+      "explanation": "Sau tính từ sở hữu children's cần danh từ development.",
+      "choices": [
+        "develop",
+        "developing",
+        "development",
+        "developmental"
+      ]
+    },
+    {
+      "id": "q-115",
+      "number": 115,
+      "section": "9. DEVELOP",
+      "prompt": "The team created a _____ plan.",
+      "sourceWord": "DEVELOP",
+      "answer": "developmental",
+      "explanation": "Trước plan cần tính từ; developmental = thuộc về sự phát triển.",
+      "choices": [
+        "developmentally",
+        "develop",
+        "developer",
+        "developmental"
+      ]
+    },
+    {
+      "id": "q-116",
+      "number": 116,
+      "section": "9. DEVELOP",
+      "prompt": "The app was _____ by a small team.",
+      "sourceWord": "DEVELOP",
+      "answer": "developed",
+      "explanation": "Sau was dùng phân từ quá khứ trong câu bị động.",
+      "choices": [
+        "developed",
+        "development",
+        "developer",
+        "develop"
+      ]
+    },
+    {
+      "id": "q-117",
+      "number": 117,
+      "section": "9. DEVELOP",
+      "prompt": "The country has made great _____.",
+      "sourceWord": "DEVELOP",
+      "answer": "developments",
+      "explanation": "Sau great cần danh từ; developments = những bước/tiến triển.",
+      "choices": [
+        "developing",
+        "developments",
+        "developed",
+        "develop"
+      ]
+    },
+    {
+      "id": "q-118",
+      "number": 118,
+      "section": "10. PROJECT",
+      "prompt": "Our school has a science _____.",
+      "sourceWord": "PROJECT",
+      "answer": "project",
+      "explanation": "Sau a science cần danh từ project = dự án.",
+      "choices": [
+        "projects",
+        "projecting",
+        "project",
+        "projected"
+      ]
+    },
+    {
+      "id": "q-119",
+      "number": 119,
+      "section": "10. PROJECT",
+      "prompt": "The students are working _____ on the task.",
+      "sourceWord": "ACTIVE",
+      "answer": "actively",
+      "explanation": "Bổ nghĩa cho working cần trạng từ actively = một cách tích cực.",
+      "choices": [
+        "active",
+        "activity",
+        "activities",
+        "actively"
+      ]
+    },
+    {
+      "id": "q-120",
+      "number": 120,
+      "section": "10. PROJECT",
+      "prompt": "The _____ was completed last week.",
+      "sourceWord": "PROJECT",
+      "answer": "project",
+      "explanation": "Cần danh từ làm chủ ngữ.",
+      "choices": [
+        "project",
+        "projecting",
+        "projects",
+        "projected"
+      ]
+    },
+    {
+      "id": "q-121",
+      "number": 121,
+      "section": "10. PROJECT",
+      "prompt": "They will _____ the results on Friday.",
+      "sourceWord": "PRESENT",
+      "answer": "present",
+      "explanation": "Sau will dùng động từ nguyên mẫu present = trình bày.",
+      "choices": [
+        "presenting",
+        "present",
+        "presented",
+        "presentation"
+      ]
+    },
+    {
+      "id": "q-122",
+      "number": 122,
+      "section": "10. PROJECT",
+      "prompt": "This is an _____ to improve the park.",
+      "sourceWord": "INITIATE",
+      "answer": "initiative",
+      "explanation": "Sau an cần danh từ initiative = sáng kiến/chương trình.",
+      "choices": [
+        "initially",
+        "initial",
+        "initiative",
+        "initiate"
+      ]
+    },
+    {
+      "id": "q-123",
+      "number": 123,
+      "section": "10. PROJECT",
+      "prompt": "The team prepared a _____ report.",
+      "sourceWord": "PROJECT",
+      "answer": "project",
+      "explanation": "Project có thể dùng như danh từ bổ nghĩa cho report: project report = báo cáo dự án.",
+      "choices": [
+        "projected",
+        "projecting",
+        "projects",
+        "project"
+      ]
+    },
+    {
+      "id": "q-124",
+      "number": 124,
+      "section": "10. PROJECT",
+      "prompt": "The project was a great _____.",
+      "sourceWord": "SUCCEED",
+      "answer": "success",
+      "explanation": "Sau a great cần danh từ success = thành công.",
+      "choices": [
+        "success",
+        "succeed",
+        "successfully",
+        "successful"
+      ]
+    },
+    {
+      "id": "q-125",
+      "number": 125,
+      "section": "10. PROJECT",
+      "prompt": "They completed the work _____.",
+      "sourceWord": "SUCCESS",
+      "answer": "successfully",
+      "explanation": "Bổ nghĩa cho động từ completed cần trạng từ successfully.",
+      "choices": [
+        "succeed",
+        "successfully",
+        "success",
+        "successful"
+      ]
+    },
+    {
+      "id": "q-126",
+      "number": 126,
+      "section": "10. PROJECT",
+      "prompt": "The project needs careful _____.",
+      "sourceWord": "PLAN",
+      "answer": "planning",
+      "explanation": "Sau careful cần danh từ/gerund planning = việc lập kế hoạch.",
+      "choices": [
+        "planful",
+        "planner",
+        "planning",
+        "planned"
+      ]
+    },
+    {
+      "id": "q-127",
+      "number": 127,
+      "section": "10. PROJECT",
+      "prompt": "The project is a _____ for local students.",
+      "sourceWord": "LEARN",
+      "answer": "learning opportunity",
+      "explanation": "Sau a cần cụm danh từ; learning opportunity = cơ hội học tập. Đây là cụm từ liên quan đến chủ đề project.",
+      "choices": [
+        "learned opportunity",
+        "learn opportunity",
+        "learner opportunity",
+        "learning opportunity"
+      ]
+    },
+    {
+      "id": "q-128",
+      "number": 128,
+      "section": "10. PROJECT",
+      "prompt": "The _____ team met after school.",
+      "sourceWord": "PROJECT",
+      "answer": "project",
+      "explanation": "Trước team cần danh từ project bổ nghĩa: project team.",
+      "choices": [
+        "project",
+        "projecting",
+        "projects",
+        "projected"
+      ]
+    },
+    {
+      "id": "q-129",
+      "number": 129,
+      "section": "10. PROJECT",
+      "prompt": "The project has several important _____.",
+      "sourceWord": "AIM",
+      "answer": "aims",
+      "explanation": "Sau several cần danh từ số nhiều aims = các mục tiêu.",
+      "choices": [
+        "aiming",
+        "aims",
+        "aim",
+        "aimless"
+      ]
+    },
+    {
+      "id": "q-130",
+      "number": 130,
+      "section": "10. PROJECT",
+      "prompt": "We need to finish the project _____.",
+      "sourceWord": "QUICK",
+      "answer": "quickly",
+      "explanation": "Bổ nghĩa cho finish cần trạng từ quickly = nhanh chóng.",
+      "choices": [
+        "quicken",
+        "quick",
+        "quickly",
+        "quickness"
+      ]
+    }
+  ]
+}

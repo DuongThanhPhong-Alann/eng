@@ -1,0 +1,1108 @@
+{
+  "id": "unit-3-community-service-exam-6",
+  "title": "Đề 6",
+  "subtitle": "Đề tổng hợp · 61 câu",
+  "description": "Đề trộn từ ba bộ câu hỏi bạn đã gửi, có trắc nghiệm và phần tự nhập đáp án.",
+  "sourceFile": "Ba tài liệu Word Form Unit 3 bạn đã gửi",
+  "questionCount": 61,
+  "questions": [
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-022",
+      "number": 1,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "A _____ needs a safe place to grow up.",
+      "sourceWord": "CHILD",
+      "answer": "child",
+      "explanation": "Sau mạo từ a cần danh từ số ít; child = một đứa trẻ.",
+      "choices": [
+        "childish",
+        "childhood",
+        "child",
+        "children"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 22
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-107",
+      "number": 2,
+      "section": "24. HOMELESS",
+      "prompt": "They provide meals for the _____.",
+      "sourceWord": "HOMELESS",
+      "answer": "homeless",
+      "explanation": "The homeless chỉ những người vô gia cư nói chung.",
+      "choices": [
+        "homeliness",
+        "homeless",
+        "homely",
+        "homelessly"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 107
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-012",
+      "number": 3,
+      "section": "1. HOMELESS",
+      "prompt": "The report discusses _____ in the city.",
+      "sourceWord": "HOME",
+      "answer": "homelessness",
+      "explanation": "Sau động từ “discusses” cần danh từ; homelessness là vấn đề được bàn đến.",
+      "choices": [
+        "homelessness",
+        "homelessly",
+        "homely",
+        "homeless"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 12
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-039",
+      "number": 4,
+      "section": "3. ORPHAN",
+      "prompt": "The organization cares for _____ children.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphaned",
+      "explanation": "Trước children cần tính từ orphaned.",
+      "choices": [
+        "orphanedness",
+        "orphan's",
+        "orphaning",
+        "orphaned"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 39
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-080",
+      "number": 5,
+      "prompt": "The vegetables need _____.",
+      "sourceWord": "WATER",
+      "section": "WATER VEGETABLES",
+      "answer": "watering",
+      "explanation": "Sau need có thể dùng V-ing chỉ việc cần được thực hiện; watering là việc tưới.",
+      "choices": [
+        "watery",
+        "watered",
+        "watering",
+        "waterless"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 80
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-085",
+      "number": 6,
+      "prompt": "Your _____ can help many people.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donation",
+      "explanation": "Sau your cần danh từ donation.",
+      "choices": [
+        "donor",
+        "donating",
+        "donate",
+        "donation"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 85
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-033",
+      "number": 7,
+      "section": "3. ORPHAN",
+      "prompt": "The program provides care for _____.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphans",
+      "explanation": "Sau for cần danh từ; nghĩa chung là những trẻ mồ côi.",
+      "choices": [
+        "orphan",
+        "orphans",
+        "orphaned",
+        "orphanage"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 33
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-014",
+      "number": 8,
+      "prompt": "We joined a _____ project.",
+      "sourceWord": "COMMUNITY SERVICE",
+      "section": "COMMUNITY SERVICE",
+      "answer": "community-service",
+      "explanation": "Cụm community-service đứng trước project để bổ nghĩa.",
+      "choices": [
+        "community-service",
+        "serviceable community",
+        "community serviced",
+        "community serving"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 14
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-086",
+      "number": 9,
+      "section": "7. ELDERLY",
+      "prompt": "They help _____ people with daily tasks.",
+      "sourceWord": "ELDER",
+      "answer": "elderly",
+      "explanation": "Trước people cần tính từ elderly.",
+      "choices": [
+        "elder",
+        "elderliness",
+        "elderly",
+        "elder's"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 86
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-023",
+      "number": 10,
+      "prompt": "The children participate _____ in the event.",
+      "sourceWord": "ACTIVE",
+      "section": "COMMUNITY ACTIVITIES",
+      "answer": "actively",
+      "explanation": "Bổ nghĩa cho động từ participate cần trạng từ actively.",
+      "choices": [
+        "activity",
+        "actively",
+        "active",
+        "activities"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 23
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-125",
+      "number": 11,
+      "section": "10. PROJECT",
+      "prompt": "They completed the work _____.",
+      "sourceWord": "SUCCESS",
+      "answer": "successfully",
+      "explanation": "Bổ nghĩa cho động từ completed cần trạng từ successfully.",
+      "choices": [
+        "succeed",
+        "successfully",
+        "success",
+        "successful"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 125
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-028",
+      "number": 12,
+      "section": "16. USED PAPER",
+      "prompt": "This _____ is still useful.",
+      "sourceWord": "USED PAPER",
+      "answer": "used paper",
+      "explanation": "Used là phân từ/tính từ bổ nghĩa cho paper.",
+      "choices": [
+        "use paper",
+        "paper use",
+        "used paper",
+        "using paper"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 28
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-048",
+      "number": 13,
+      "section": "18. EXCHANGE USED PAPER FOR NOTEBOOKS",
+      "prompt": "The used paper was _____ for notebooks.",
+      "sourceWord": "EXCHANGE",
+      "answer": "exchanged",
+      "explanation": "Sau was dùng phân từ quá khứ trong câu bị động.",
+      "choices": [
+        "exchanging",
+        "exchange",
+        "exchanged",
+        "exchanges"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 48
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-085",
+      "number": 14,
+      "section": "22. NURSING",
+      "prompt": "They are _____ the patient.",
+      "sourceWord": "NURSE",
+      "answer": "nursing",
+      "explanation": "Sau are dùng V-ing.",
+      "choices": [
+        "nurses",
+        "nursed",
+        "nurse",
+        "nursing"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 85
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-090",
+      "number": 15,
+      "prompt": "The _____ box is near the door.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donation",
+      "explanation": "Donation bổ nghĩa cho box; donation box là hộp quyên góp.",
+      "choices": [
+        "donation",
+        "donating",
+        "donor",
+        "donate"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 90
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-055",
+      "number": 16,
+      "prompt": "The students are _____ trees today.",
+      "sourceWord": "PLANT",
+      "section": "PLANT TREES",
+      "answer": "planting",
+      "explanation": "Sau are dùng V-ing trong cấu trúc đang diễn ra.",
+      "choices": [
+        "plant",
+        "planting",
+        "plants",
+        "planted"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 55
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-099",
+      "number": 17,
+      "prompt": "We need clean _____ for the donation box.",
+      "sourceWord": "CLOTH",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "clothes",
+      "explanation": "Sau clean cần danh từ clothes, nghĩa là quần áo.",
+      "choices": [
+        "clothesline",
+        "clothes",
+        "clothed",
+        "clothe"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 99
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-093",
+      "number": 18,
+      "prompt": "This _____ is made of cotton.",
+      "sourceWord": "CLOTH",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "cloth",
+      "explanation": "Sau this cần danh từ số ít cloth (vải).",
+      "choices": [
+        "clothed",
+        "clothes",
+        "cloths",
+        "cloth"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 93
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-052",
+      "number": 19,
+      "prompt": "_____ trees is good for the planet.",
+      "sourceWord": "PLANT TREE",
+      "section": "PLANT TREES",
+      "answer": "Planting",
+      "explanation": "V-ing làm chủ ngữ; câu nói về hoạt động trồng cây.",
+      "choices": [
+        "planted",
+        "plant",
+        "Planting",
+        "plants"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 52
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-118",
+      "number": 20,
+      "section": "10. PROJECT",
+      "prompt": "Our school has a science _____.",
+      "sourceWord": "PROJECT",
+      "answer": "project",
+      "explanation": "Sau a science cần danh từ project = dự án.",
+      "choices": [
+        "projects",
+        "projecting",
+        "project",
+        "projected"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 118
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-079",
+      "number": 21,
+      "prompt": "A _____ diet includes vegetables.",
+      "sourceWord": "HEALTH",
+      "section": "WATER VEGETABLES",
+      "answer": "healthy",
+      "explanation": "Trước danh từ diet cần tính từ healthy.",
+      "choices": [
+        "health",
+        "healthy",
+        "healthily",
+        "healthiness"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 79
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-016",
+      "number": 22,
+      "section": "15. PAPER",
+      "prompt": "Please _____ the document carefully.",
+      "sourceWord": "PAPER",
+      "answer": "paper",
+      "explanation": "Paper được dùng như động từ, nghĩa là dán hoặc bao bằng giấy.",
+      "choices": [
+        "papery",
+        "papered",
+        "paper",
+        "papering"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 16
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-071",
+      "number": 23,
+      "section": "6. RURAL AREAS",
+      "prompt": "The project supports families in _____ areas.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rurality",
+        "rurally",
+        "ruralism",
+        "rural"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 71
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-075",
+      "number": 24,
+      "section": "21. LITTER",
+      "prompt": "We should put the _____ in the bin.",
+      "sourceWord": "LITTER",
+      "answer": "litter",
+      "explanation": "Sau the cần danh từ.",
+      "choices": [
+        "littering",
+        "litter",
+        "litters",
+        "littered"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 75
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-076",
+      "number": 25,
+      "prompt": "These vegetables are _____.",
+      "sourceWord": "HEALTH",
+      "section": "WATER VEGETABLES",
+      "answer": "healthy",
+      "explanation": "Sau are cần tính từ healthy.",
+      "choices": [
+        "healthiness",
+        "health",
+        "healthy",
+        "healthily"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 76
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-082",
+      "number": 26,
+      "prompt": "The school received many _____.",
+      "sourceWord": "DONATE",
+      "section": "DONATE",
+      "answer": "donations",
+      "explanation": "Sau many cần danh từ số nhiều donations.",
+      "choices": [
+        "donations",
+        "donation",
+        "donor",
+        "donating"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 82
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-102",
+      "number": 27,
+      "section": "24. HOMELESS",
+      "prompt": "The _____ are staying at the shelter.",
+      "sourceWord": "HOMELESS",
+      "answer": "homeless",
+      "explanation": "The homeless là cách dùng tính từ như danh từ, chỉ người vô gia cư.",
+      "choices": [
+        "homeless",
+        "homely",
+        "homelessly",
+        "homeliness"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 102
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-065",
+      "number": 28,
+      "section": "5. RURAL",
+      "prompt": "Access to the internet is limited in some _____ places.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước places cần tính từ rural.",
+      "choices": [
+        "ruralism",
+        "rural",
+        "rurality",
+        "rurally"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 65
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-051",
+      "number": 29,
+      "section": "4. ORPHANAGE",
+      "prompt": "Children at the _____ receive an education.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Sau at the cần danh từ chỉ nơi chốn.",
+      "choices": [
+        "orphan",
+        "orphans",
+        "orphaned",
+        "orphanage"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 51
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-092",
+      "number": 30,
+      "section": "23. NURSING HOME",
+      "prompt": "The _____ provides care for older people.",
+      "sourceWord": "NURSING HOME",
+      "answer": "nursing home",
+      "explanation": "Cụm danh từ làm chủ ngữ.",
+      "choices": [
+        "nursing homes",
+        "nurse home",
+        "nursing home",
+        "nursing house"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 92
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-094",
+      "number": 31,
+      "section": "8. GROW",
+      "prompt": "The _____ of the town has been rapid.",
+      "sourceWord": "GROW",
+      "answer": "growth",
+      "explanation": "Cần danh từ làm chủ ngữ; growth = sự tăng trưởng.",
+      "choices": [
+        "growing",
+        "grow",
+        "growth",
+        "grown"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 94
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-103",
+      "number": 32,
+      "section": "8. GROW",
+      "prompt": "This area is suitable for _____ vegetables.",
+      "sourceWord": "GROW",
+      "answer": "growing",
+      "explanation": "Sau for dùng V-ing khi diễn tả hoạt động; growing vegetables = trồng rau.",
+      "choices": [
+        "grow",
+        "grower",
+        "growth",
+        "growing"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 103
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-053",
+      "number": 33,
+      "section": "19. VOLUNTEER",
+      "prompt": "She is a _____ at the community center.",
+      "sourceWord": "VOLUNTEER",
+      "answer": "volunteer",
+      "explanation": "Sau a cần danh từ chỉ người.",
+      "choices": [
+        "volunteering",
+        "volunteered",
+        "voluntarily",
+        "volunteer"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 53
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-018",
+      "number": 34,
+      "section": "2. HOMELESS CHILDREN",
+      "prompt": "Good _____ is important for a child's future.",
+      "sourceWord": "EDUCATE",
+      "answer": "education",
+      "explanation": "Chỗ trống là chủ ngữ và mang nghĩa sự giáo dục; cần danh từ education.",
+      "choices": [
+        "educated",
+        "educational",
+        "education",
+        "educate"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 18
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-045",
+      "number": 35,
+      "section": "18. EXCHANGE USED PAPER FOR NOTEBOOKS",
+      "prompt": "We are _____ used paper for notebooks.",
+      "sourceWord": "EXCHANGE",
+      "answer": "exchanging",
+      "explanation": "Sau are dùng V-ing.",
+      "choices": [
+        "exchanges",
+        "exchange",
+        "exchanged",
+        "exchanging"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 45
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-036",
+      "number": 36,
+      "section": "17. EXCHANGE",
+      "prompt": "Please _____ your old notebooks for new ones.",
+      "sourceWord": "EXCHANGE",
+      "answer": "exchange",
+      "explanation": "Sau please dùng động từ nguyên mẫu.",
+      "choices": [
+        "exchanged",
+        "exchanges",
+        "exchange",
+        "exchanging"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 36
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-059",
+      "number": 37,
+      "section": "5. RURAL",
+      "prompt": "Many schools in _____ areas need support.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước areas cần tính từ rural.",
+      "choices": [
+        "rurally",
+        "rurality",
+        "ruralism",
+        "rural"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 59
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-046",
+      "number": 38,
+      "section": "4. ORPHANAGE",
+      "prompt": "They donated money to the _____.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Sau the cần danh từ; orphanage là nơi nhận tiền quyên góp.",
+      "choices": [
+        "orphans",
+        "orphaned",
+        "orphanage",
+        "orphan"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 46
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-030",
+      "number": 39,
+      "prompt": "This _____ is popular with teenagers.",
+      "sourceWord": "ACTIVITY",
+      "section": "COMMUNITY ACTIVITIES",
+      "answer": "activity",
+      "explanation": "Sau “this” cần danh từ số ít.",
+      "choices": [
+        "activity",
+        "activities",
+        "active",
+        "activate"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 30
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-038",
+      "number": 40,
+      "section": "17. EXCHANGE",
+      "prompt": "The two groups _____ gifts.",
+      "sourceWord": "EXCHANGE",
+      "answer": "exchange",
+      "explanation": "Chủ ngữ số nhiều the two groups đi với động từ nguyên mẫu.",
+      "choices": [
+        "exchange",
+        "exchanging",
+        "exchangeable",
+        "exchanges"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 38
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-086",
+      "number": 41,
+      "section": "22. NURSING",
+      "prompt": "The patient needs _____ care.",
+      "sourceWord": "NURSE",
+      "answer": "nursing",
+      "explanation": "Nursing bổ nghĩa cho care, nghĩa là chăm sóc điều dưỡng.",
+      "choices": [
+        "nursing",
+        "nursed",
+        "nurse-like",
+        "nurses"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 86
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-090",
+      "number": 42,
+      "section": "7. ELDERLY",
+      "prompt": "Many elderly people need _____ support.",
+      "sourceWord": "EMOTION",
+      "answer": "emotional",
+      "explanation": "Trước support cần tính từ emotional = thuộc về cảm xúc/tinh thần.",
+      "choices": [
+        "emotionless",
+        "emotionally",
+        "emotional",
+        "emotion"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 90
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-031",
+      "number": 43,
+      "section": "3. ORPHAN",
+      "prompt": "Many _____ need emotional support.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphans",
+      "explanation": "Sau many dùng danh từ số nhiều; orphans = những người mồ côi.",
+      "choices": [
+        "orphanage",
+        "orphaned",
+        "orphan",
+        "orphans"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 31
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-106",
+      "number": 44,
+      "section": "24. HOMELESS",
+      "prompt": "The number of _____ people is increasing.",
+      "sourceWord": "HOMELESS",
+      "answer": "homeless",
+      "explanation": "Homeless bổ nghĩa cho people.",
+      "choices": [
+        "homeless",
+        "homeliness",
+        "homelessly",
+        "homely"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 106
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-050",
+      "number": 45,
+      "section": "18. EXCHANGE USED PAPER FOR NOTEBOOKS",
+      "prompt": "Students enjoy the _____.",
+      "sourceWord": "EXCHANGE",
+      "answer": "exchange",
+      "explanation": "Sau the cần danh từ exchange.",
+      "choices": [
+        "exchange",
+        "exchanged",
+        "exchanger",
+        "exchangeable"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 50
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-095",
+      "number": 46,
+      "prompt": "We are _____ clothes for children.",
+      "sourceWord": "DONATE",
+      "section": "DONATE OLD CLOTHES",
+      "answer": "donating",
+      "explanation": "Sau are dùng V-ing để diễn tả đang quyên góp.",
+      "choices": [
+        "donate",
+        "donating",
+        "donation",
+        "donated"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 95
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-057",
+      "number": 47,
+      "prompt": "The garden has several young _____.",
+      "sourceWord": "TREE",
+      "section": "PLANT TREES",
+      "answer": "trees",
+      "explanation": "Sau several cần danh từ số nhiều.",
+      "choices": [
+        "tree",
+        "tree's",
+        "treed",
+        "trees"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 57
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-052",
+      "number": 48,
+      "section": "4. ORPHANAGE",
+      "prompt": "The local _____ organizes activities for children.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphanage",
+      "explanation": "Trước organizes cần danh từ làm chủ ngữ.",
+      "choices": [
+        "orphanage",
+        "orphaned",
+        "orphans",
+        "orphan"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 52
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-029",
+      "number": 49,
+      "section": "3. ORPHAN",
+      "prompt": "The charity helps _____ children.",
+      "sourceWord": "ORPHAN",
+      "answer": "orphaned",
+      "explanation": "Trước children cần tính từ/phân từ orphaned = bị mồ côi.",
+      "choices": [
+        "orphaning",
+        "orphaned",
+        "orphans",
+        "orphanage"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 29
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-006",
+      "number": 50,
+      "prompt": "The two _____ share the same library.",
+      "sourceWord": "COMMUNITY",
+      "section": "COMMUNITY",
+      "answer": "communities",
+      "explanation": "Sau “two” cần danh từ số nhiều: communities.",
+      "choices": [
+        "communities",
+        "community",
+        "communitarianism",
+        "communal"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 6
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-110",
+      "number": 51,
+      "prompt": "Good _____ makes learning easier.",
+      "sourceWord": "TEACH",
+      "section": "TEACH",
+      "answer": "teaching",
+      "explanation": "Sau good cần danh từ teaching, chỉ việc/phương pháp giảng dạy.",
+      "choices": [
+        "teaching",
+        "teach",
+        "taught",
+        "teacher"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 110
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-097",
+      "number": 52,
+      "section": "23. NURSING HOME",
+      "prompt": "The _____ is clean and comfortable.",
+      "sourceWord": "NURSING HOME",
+      "answer": "nursing home",
+      "explanation": "Cụm danh từ làm chủ ngữ.",
+      "choices": [
+        "nursing homes",
+        "nursing house",
+        "nurse home",
+        "nursing home"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 97
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-026",
+      "number": 53,
+      "section": "16. USED PAPER",
+      "prompt": "_____ can be recycled easily.",
+      "sourceWord": "USED PAPER",
+      "answer": "Used paper",
+      "explanation": "Cụm danh từ đứng đầu câu làm chủ ngữ.",
+      "choices": [
+        "Used paper",
+        "use paper",
+        "paper use",
+        "using paper"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 26
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-031",
+      "number": 54,
+      "prompt": "Chess is a popular _____.",
+      "sourceWord": "BOARD GAME",
+      "section": "BOARD GAME",
+      "answer": "board game",
+      "explanation": "Sau “a popular” cần danh từ số ít.",
+      "choices": [
+        "gamer",
+        "board game",
+        "gaming",
+        "board games"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 31
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-032",
+      "number": 55,
+      "section": "17. EXCHANGE",
+      "prompt": "The students made an _____.",
+      "sourceWord": "EXCHANGE",
+      "answer": "exchange",
+      "explanation": "Sau an cần danh từ số ít exchange.",
+      "choices": [
+        "exchanged",
+        "exchanging",
+        "exchange",
+        "exchanges"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 32
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-122",
+      "number": 56,
+      "prompt": "The children are _____ rubbish.",
+      "sourceWord": "PICK UP",
+      "section": "PICK UP",
+      "answer": "picking up",
+      "explanation": "Sau are dùng V-ing; picking up là đang nhặt.",
+      "choices": [
+        "picking up",
+        "picked up",
+        "pickup",
+        "pick up"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 122
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-059",
+      "number": 57,
+      "prompt": "Tree _____ is one of our activities.",
+      "sourceWord": "PLANT",
+      "section": "PLANT TREES",
+      "answer": "planting",
+      "explanation": "Trong cụm tree planting, planting là danh từ chỉ hoạt động.",
+      "choices": [
+        "plant",
+        "planting",
+        "plants",
+        "planted"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 59
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-055",
+      "number": 58,
+      "section": "5. RURAL",
+      "prompt": "The village is in a _____ region.",
+      "sourceWord": "RURAL",
+      "answer": "rural",
+      "explanation": "Trước region cần tính từ rural.",
+      "choices": [
+        "ruralism",
+        "rurality",
+        "rurally",
+        "rural"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 55
+    },
+    {
+      "id": "unit-3-community-service-word-form-10-tu-q-007",
+      "number": 59,
+      "section": "1. HOMELESS",
+      "prompt": "The city is trying to reduce _____.",
+      "sourceWord": "HOME",
+      "answer": "homelessness",
+      "explanation": "Sau động từ “reduce” cần danh từ làm tân ngữ; homelessness = tình trạng vô gia cư.",
+      "choices": [
+        "homely",
+        "homeless",
+        "homelessly",
+        "homelessness"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-10-tu",
+      "sourceExamTitle": "Unit 3 · Community Service — Word Form",
+      "sourceQuestionNumber": 7
+    },
+    {
+      "id": "unit-3-community-service-word-form-q-105",
+      "number": 60,
+      "prompt": "The students like their _____.",
+      "sourceWord": "TEACH",
+      "section": "TEACH",
+      "answer": "teacher",
+      "explanation": "Sau their cần danh từ số ít teacher.",
+      "choices": [
+        "teach",
+        "teachery",
+        "teaches",
+        "teacher"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form",
+      "sourceExamTitle": "Unit 3 · Community Service",
+      "sourceQuestionNumber": 105
+    },
+    {
+      "id": "unit-3-community-service-word-form-ex14-24-q-040",
+      "number": 61,
+      "section": "17. EXCHANGE",
+      "prompt": "An _____ student visited our class.",
+      "sourceWord": "EXCHANGE",
+      "answer": "exchange",
+      "explanation": "Exchange đứng trước student để bổ nghĩa.",
+      "choices": [
+        "exchanges",
+        "exchanging",
+        "exchange",
+        "exchanged"
+      ],
+      "sourceExamId": "unit-3-community-service-word-form-ex14-24",
+      "sourceExamTitle": "Unit 3 · Community Service — Exercises 14–24",
+      "sourceQuestionNumber": 40
+    }
+  ]
+}
