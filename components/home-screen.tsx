@@ -25,9 +25,8 @@ import { playClickSound, playStartSound } from "@/lib/sound";
 import type { AttemptSummary, Exam } from "@/lib/types";
 
 export function HomeScreen({ exams }: { exams: Exam[] }) {
-  const [examList, setExamList] = useState<Exam[]>(exams);
+  const examList = exams;
   const [recent, setRecent] = useState<AttemptSummary[]>([]);
-  const [databaseReady, setDatabaseReady] = useState<boolean | null>(null);
   const [searchTerm, setSearchTerm] = useState("");
   const [greeting, setGreeting] = useState("Chào bạn học sinh chăm chỉ! 🎒");
 
@@ -42,14 +41,6 @@ export function HomeScreen({ exams }: { exams: Exam[] }) {
     }
 
     const learnerId = getLearnerId();
-    fetch("/api/exams")
-      .then(async (response) => {
-        const data = await response.json();
-        setDatabaseReady(response.ok && data.databaseReady === true);
-        if (response.ok && Array.isArray(data.exams)) setExamList(data.exams);
-      })
-      .catch(() => setDatabaseReady(false));
-
     fetch(`/api/history?learnerId=${encodeURIComponent(learnerId)}`)
       .then((response) => (response.ok ? response.json() : null))
       .then((data) => {
@@ -216,13 +207,6 @@ export function HomeScreen({ exams }: { exams: Exam[] }) {
             />
           </div>
         </div>
-
-        {databaseReady === false && (
-          <div className="database-note">
-            <span>💡 <strong>Lưu ý:</strong> Để lưu kết quả lâu dài, hãy thiết lập <code>MONGODB_URI</code> trong tệp <code>.env.local</code> nhé!</span>
-          </div>
-        )}
-
         <div className="exam-grid">
           {filteredExams.map((exam, idx) => (
             <article className="exam-card" key={exam.id}>

@@ -1,7 +1,8 @@
 import { randomUUID } from "node:crypto";
 import { isIP } from "node:net";
 import { NextResponse } from "next/server";
-import { readExam, seedExamCollection } from "@/lib/exam-store";
+import { readExam } from "@/lib/exam-store";
+import { getSeedExam } from "@/lib/exams";
 import { getDatabase } from "@/lib/mongodb";
 import type { AttemptRecord } from "@/lib/types";
 
@@ -30,8 +31,7 @@ export async function POST(request: Request) {
 
   try {
     const db = await getDatabase();
-    await seedExamCollection(db);
-    const exam = await readExam(db, examId);
+    const exam = getSeedExam(examId) ?? await readExam(db, examId);
     if (!exam) return NextResponse.json({ error: "Không tìm thấy đề." }, { status: 404 });
     if (level === "choice" && exam.questions.some((question) => !question.choices?.length)) {
       return NextResponse.json({ error: "Đề này chưa có câu hỏi trắc nghiệm." }, { status: 409 });

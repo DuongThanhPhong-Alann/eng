@@ -180,7 +180,6 @@ function PracticeContent({ exam }: { exam: Exam }) {
     setBusy(true);
     setError("");
     try {
-      const location = await requestDeviceLocation();
       const response = await fetch("/api/attempts", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -188,7 +187,6 @@ function PracticeContent({ exam }: { exam: Exam }) {
           learnerId: learnerIdRef.current,
           examId: exam.id,
           level: mode,
-          location,
         }),
       });
       const result = await response.json();
@@ -197,6 +195,17 @@ function PracticeContent({ exam }: { exam: Exam }) {
       const startTime = new Date(result.startedAt).getTime();
       setStartedAt(startTime);
       setPhase("question");
+      window.setTimeout(() => {
+        void requestDeviceLocation().then((location) => {
+          if (!location) return;
+          fetch(`/api/attempts/${result.attemptId}`, {
+            method: "PATCH",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ learnerId: learnerIdRef.current, event: "location", location }),
+            keepalive: true,
+          }).catch(() => undefined);
+        });
+      }, 350);
     } catch (cause) {
       setError(cause instanceof Error ? cause.message : "Không thể kết nối máy chủ.");
     } finally {
@@ -223,7 +232,6 @@ function PracticeContent({ exam }: { exam: Exam }) {
 
     setAnswers((existing) => ({ ...existing, [current.id]: answer }));
     setPhase("feedback");
-    setBusy(true);
     setError("");
 
     try {
@@ -239,8 +247,6 @@ function PracticeContent({ exam }: { exam: Exam }) {
       if (!response.ok) throw new Error(result.error || "Không thể lưu câu trả lời.");
     } catch (cause) {
       setError(cause instanceof Error ? cause.message : "Không thể kết nối máy chủ.");
-    } finally {
-      setBusy(false);
     }
   };
 

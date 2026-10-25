@@ -1,9 +1,6 @@
 import { HomeScreen } from "@/components/home-screen";
-import { getExams } from "@/lib/exam-store";
+import { seedExams } from "@/lib/exams";
 
-export const dynamic = "force-dynamic";
-
-export default async function HomePage() {
-  const exams = await getExams();
-  return <HomeScreen exams={exams} />;
+export default function HomePage() {
+  return <HomeScreen exams={seedExams} />;
 }

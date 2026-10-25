@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { readExam } from "@/lib/exam-store";
+import { getSeedExam } from "@/lib/exams";
 import { normalizeAnswer } from "@/lib/format";
 import { getDatabase } from "@/lib/mongodb";
 import type { AttemptRecord } from "@/lib/types";
@@ -19,6 +20,42 @@ export async function PATCH(request: Request, context: RouteContext) {
     const attempts = db.collection<AttemptRecord>("attempts");
     const attempt = await attempts.findOne({ _id: attemptId, learnerId });
     if (!attempt) return NextResponse.json({ error: "Không tìm thấy lần làm bài." }, { status: 404 });
+    if (body?.event === "location") {
+      const rawLocation = body.location;
+      const validCoordinates =
+        typeof rawLocation?.latitude === "number" &&
+        Number.isFinite(rawLocation.latitude) &&
+        rawLocation.latitude >= -90 &&
+        rawLocation.latitude <= 90 &&
+        typeof rawLocation.longitude === "number" &&
+        Number.isFinite(rawLocation.longitude) &&
+        rawLocation.longitude >= -180 &&
+        rawLocation.longitude <= 180;
+      if (!validCoordinates) {
+        return NextResponse.json({ error: "Tọa độ vị trí không hợp lệ." }, { status: 400 });
+      }
+      const capturedAt = Date.parse(rawLocation.capturedAt ?? "");
+      await attempts.updateOne(
+        { _id: attemptId, learnerId },
+        {
+          $set: {
+            location: {
+              latitude: rawLocation.latitude,
+              longitude: rawLocation.longitude,
+              accuracyMeters:
+                typeof rawLocation.accuracyMeters === "number" &&
+                Number.isFinite(rawLocation.accuracyMeters) &&
+                rawLocation.accuracyMeters >= 0
+                  ? Math.min(rawLocation.accuracyMeters, 1_000_000)
+                  : 0,
+              capturedAt: Number.isFinite(capturedAt) ? new Date(capturedAt) : new Date(),
+            },
+          },
+        },
+      );
+      return NextResponse.json({ ok: true });
+    }
+
     if (attempt.status === "completed") {
       return NextResponse.json({ error: "Lần làm bài này đã hoàn thành." }, { status: 409 });
     }
@@ -55,7 +92,7 @@ export async function PATCH(request: Request, context: RouteContext) {
     }
 
     if (body?.answer && typeof body.answer.questionId === "string" && typeof body.answer.answer === "string") {
-      const exam = await readExam(db, attempt.examId);
+      const exam = getSeedExam(attempt.examId) ?? await readExam(db, attempt.examId);
       const question = exam?.questions.find((item) => item.id === body.answer.questionId);
       if (!question) return NextResponse.json({ error: "Không tìm thấy câu hỏi." }, { status: 404 });
       if (attempt.answers.some((item) => item.questionId === question.id)) {
@@ -82,7 +119,7 @@ export async function PATCH(request: Request, context: RouteContext) {
       return NextResponse.json({ error: "Dữ liệu nộp bài chưa hợp lệ." }, { status: 400 });
     }
 
-    const exam = await readExam(db, attempt.examId);
+    const exam = getSeedExam(attempt.examId) ?? await readExam(db, attempt.examId);
     if (!exam) return NextResponse.json({ error: "Không tìm thấy đề." }, { status: 404 });
     const submitted = new Map<string, string>();
     for (const entry of body.answers) {

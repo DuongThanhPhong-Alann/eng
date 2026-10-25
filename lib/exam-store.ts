@@ -28,9 +28,10 @@ export async function readExam(db: Db, examId: string) {
 
 export async function getExam(examId: string) {
   const fallback = getSeedExam(examId);
+  if (fallback) return fallback;
+
   try {
     const db = await getDatabase();
-    await seedExamCollection(db);
     return (await readExam(db, examId)) ?? fallback;
   } catch {
     return fallback;
